@@ -2,5 +2,5 @@ collections:
   hr-test:
     output: true
     order:
-      - Scholarship Test.md
       - HR (Test).md
+      - Scholarship Test.md
