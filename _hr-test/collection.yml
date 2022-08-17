@@ -1,0 +1,4 @@
+collections:
+  hr-test:
+    output: true
+    order: []
