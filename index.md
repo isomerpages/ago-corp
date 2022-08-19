@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Auditor-General's Office
       subtitle: Enhancing Public Accountability
-      background: /images/hero-banner.png
+      background: /images/cover girl.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
