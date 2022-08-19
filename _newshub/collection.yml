@@ -1,0 +1,4 @@
+collections:
+  newshub:
+    output: true
+    order: []
