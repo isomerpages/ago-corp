@@ -23,13 +23,12 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Who We Are
+      description: "AGO is an independent organ of state and the national auditor. "
+      button: Find out more
       url: /faq/
   - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+      title: Annual Report of the Auditor-General
+      subtitle: Our Publications
+      button: Read the latest report
 ---
