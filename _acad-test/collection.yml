@@ -1,0 +1,4 @@
+collections:
+  acad-test:
+    output: true
+    order: []
