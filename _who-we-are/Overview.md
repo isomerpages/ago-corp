@@ -3,7 +3,7 @@ title: Overview
 permalink: /who-we-are/overview
 description: ""
 ---
-![overview](/images/about-usb2aef35f1f7667528effff00003bd177.jpg)
+![overview](/images/about-usb2aef35f1f7667528effff00003bd177.jpg) 
 
 AGO is an independent organ of state and the national auditor. We play an important role in enhancing public accountability in the management and use of public funds and resources through our audits. Our independence allows us to carry out our audits without fear or favour.
 
@@ -16,7 +16,6 @@ We audit:
 *   other public authorities and bodies administering public funds (upon their request for audit), e.g. government-owned companies
 
 We report our audit observations to:
-
 *   the President, Parliament and the public through the Annual Report of the Auditor-General
 *   management of the organisations audited through management letters
 
