@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: <optional notification bar>
 sections:
   - hero:
       title: Auditor-General's Office
@@ -19,9 +19,6 @@ sections:
         - title: Publications
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Careers
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Who We Are
       description: "AGO is an independent organ of state and the national auditor. "
