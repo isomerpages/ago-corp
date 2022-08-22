@@ -1,4 +1,5 @@
 collections:
   newshub:
     output: true
-    order: []
+    order:
+      - News & Events.md
