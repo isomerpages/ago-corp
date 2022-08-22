@@ -2,5 +2,6 @@ collections:
   hr-test:
     output: true
     order:
+      - Hr Test Subfolder/.keep
       - HR (Test).md
       - Scholarship Test.md
