@@ -13,5 +13,5 @@ links:
   - title: Menu Title
     url: /permalink
     sublinks: []
-  - title: Example Page 2
-    url: /example-page-2
+  - title: HR
+    collection: hr-test
