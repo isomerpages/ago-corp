@@ -1,6 +1,11 @@
 ---
 title: News & Events
-permalink: /news-events
+permalink: /news-events/
 description: ""
 ---
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
