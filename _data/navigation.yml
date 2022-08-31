@@ -4,14 +4,9 @@ links:
     collection: who-we-are
   - title: AGO Academy
     url: /academy
-  - title: Newshub
-    url: /newshub
-  - title: Publications
-    resource_room: true
-  - title: Careers
-    url: /hr-test
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
   - title: Careers
     collection: hr-test
+  - title: Newshub
+    collection: newshub
+  - title: Publications
+    collection: our-publications
