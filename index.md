@@ -25,6 +25,5 @@ sections:
       url: /faq/
   - resources:
       title: Annual Report of the Auditor-General
-      subtitle: Our Publications
       button: Read the latest report
 ---
