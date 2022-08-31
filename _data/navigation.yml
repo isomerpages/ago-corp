@@ -2,14 +2,16 @@ logo: /images/AGOlogo.png
 links:
   - title: Who we are
     collection: who-we-are
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Resources
+  - title: AGO Academy
+    url: /academy
+  - title: Newshub
+    url: /newshub
+  - title: Publications
     resource_room: true
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: HR
+  - title: Careers
+    url: /hr-test
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: hr
     collection: hr-test
