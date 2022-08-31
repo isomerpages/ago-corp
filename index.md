@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/AGOlogo.png
 permalink: /
-notification: <optional notification bar>
+notification: ""
 sections:
   - hero:
       background: /images/AGOEntrance.jpg
@@ -27,4 +27,3 @@ sections:
       title: Annual Report of the Auditor-General
       button: Read the latest report
 ---
-
