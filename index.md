@@ -7,16 +7,17 @@ permalink: /
 notification: <optional notification bar>
 sections:
   - hero:
-      title: Auditor-General's Office
-      subtitle: Auditing for the Nation
-      background: /images/Officers reading AR resized1200_630.jpg
+      background: /images/AGOEntrance.jpg
       key_highlights:
         - title: Audits
-          description: Important highlight A is important
-          url: https://google.com
+          description: ""
+          url: ""
         - title: Publications
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: ""
+          url: ""
+        - title: Careers
+          description: ""
+          url: ""
   - infobar:
       title: Who We Are
       description: "AGO is an independent organ of state and the national auditor. "
