@@ -8,10 +8,8 @@ notification: <optional notification bar>
 sections:
   - hero:
       title: Auditor-General's Office
-      subtitle: Enhancing Public Accountability
+      subtitle: Auditing for the Nation
       background: /images/Officers reading AR.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Audits
           description: Important highlight A is important
