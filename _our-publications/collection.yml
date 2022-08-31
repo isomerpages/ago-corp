@@ -2,4 +2,5 @@ collections:
   our-publications:
     output: true
     order:
+      - Other Publications.md
       - Annual Reports.md
