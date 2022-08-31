@@ -1,0 +1,4 @@
+collections:
+  our-publications:
+    output: true
+    order: []
