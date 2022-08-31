@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Auditor-General's Office
       subtitle: Auditing for the Nation
-      background: /images/Officers reading AR.jpg
+      background: /images/Officers reading AR resized1200_630.jpg
       key_highlights:
         - title: Audits
           description: Important highlight A is important
