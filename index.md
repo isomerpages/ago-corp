@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Title
+description: An Isomer site of the Singapore Government
+image: /images/AGOlogo.png
 permalink: /
 notification: <optional notification bar>
 sections:
@@ -27,3 +27,4 @@ sections:
       title: Annual Report of the Auditor-General
       button: Read the latest report
 ---
+
