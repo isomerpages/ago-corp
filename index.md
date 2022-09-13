@@ -22,9 +22,8 @@ sections:
       title: Who We Are
       description: "AGO is an independent organ of state and the national auditor. "
       button: Find out more
-      url: /faq/
+      url: /who-we-are/
   - resources:
       title: Annual Report of the Auditor-General
       button: Read the latest report
 ---
-
