@@ -3,6 +3,8 @@ title: History
 permalink: /who-we-are/history/
 description: ""
 ---
+![](/images/PageBanner1.jpg)
+
 | Year & Event | Historical Description | 
 | -------- | -------- | 
 | 1867 - Establishment Of Audit Office (Straits Settlements)  | The Audit Office of the Straits Settlements was established by the British colonial government in 1867. This was the year that the Straits Settlements were made a Crown Colony of the British Empire.  | 
