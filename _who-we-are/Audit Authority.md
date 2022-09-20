@@ -3,6 +3,8 @@ title: Audit Authority
 permalink: /who-we-are/authority/
 description: ""
 ---
+![](/images/PageBanner1.jpg)
+
 AGO’s audit mandate is provided for in legislation. The key legislation that govern AGO’s work are the Constitution of the Republic of Singapore and the Audit Act.
 
 The Auditor-General has the duty to:
