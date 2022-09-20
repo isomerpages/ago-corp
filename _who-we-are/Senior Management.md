@@ -3,7 +3,6 @@ title: Senior Management
 permalink: /who-we-are/seniormanagement/
 description: ""
 ---
-![](/images/PageBanner2.jpg)
 
 AGO is headed by the Auditor-General. She is assisted by a Deputy Auditor-General and two Assistant Auditor-Generals.
 
