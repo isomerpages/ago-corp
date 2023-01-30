@@ -2,11 +2,15 @@ logo: /images/AGOlogo.png
 links:
   - title: Who we are
     collection: who-we-are
-  - title: AGO Academy
-    url: /academy
-  - title: Careers
-    collection: hr-test
-  - title: Newshub
-    collection: newshub
+  - title: Our Audits
+    collection: our-audits
   - title: Publications
     collection: our-publications
+  - title: Careers
+    collection: hr-test
+  - title: AGO Academy
+    url: /academy
+  - title: Newshub
+    collection: newshub
+  - title: Useful Links
+    collection: useful-links
