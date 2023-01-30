@@ -18,6 +18,7 @@ Public Accounts Committee (PAC) Reports
 - International Federation of Accountants (IFAC)
 - Institute of Singapore Chartered Accountants (ISCA)
 - [Singapore Budget](https://www.mof.gov.sg/singaporebudget)
-- Singapore Government
+- [Singapore Government Directory Interactive (SGDi)](https://www.sgdi.gov.sg/ministries)
+- Singapore Government[Singapore Government Homepage](https://www.gov.sg/)
 - [Singapore Parliament Reports] (https://sprs.parl.gov.sg/selectcommittee/#/home)
 - Singapore Statutes Online
