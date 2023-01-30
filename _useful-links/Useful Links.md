@@ -19,5 +19,5 @@ Public Accounts Committee (PAC) Reports
 - Institute of Singapore Chartered Accountants (ISCA)
 - [Singapore Budget](https://www.mof.gov.sg/singaporebudget)
 - Singapore Government
-- [Singapore Parliament Reports] https://sprs.parl.gov.sg/selectcommittee/#/home)
+- [Singapore Parliament Reports] (https://sprs.parl.gov.sg/selectcommittee/#/home)
 - Singapore Statutes Online
