@@ -14,5 +14,10 @@ Public Accounts Committee (PAC) Reports
 # OTHER WEBSITES
 - Accounting Standards Council
 - Accounting Standards for Statutory Boards
+- International Auditing and Assurance Standards Board (IAASB)
+- International Federation of Accountants (IFAC)
+- Institute of Singapore Chartered Accountants (ISCA)
 - [Singapore Budget](https://www.mof.gov.sg/singaporebudget)
 - Singapore Government
+- Singapore Parliamentary Reports
+- Singapore Statutes Online
