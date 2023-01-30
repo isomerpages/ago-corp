@@ -7,9 +7,9 @@ description: ""
 * [Public Accounts Committee (PAC) Reports](https://sprs.parl.gov.sg/selectcommittee/#/home)
 
 # INTERNATIONAL / REGIONAL ORGANISATIONS OF SUPREME AUDIT INSTITUTIONS
-- ASEANSAI
-- ASOSAI
-- INTOSAI
+- [ASEANSAI](https://www.aseansai.org/)
+- [ASOSAI](https://asosai.org/asosai/)
+- [INTOSAI](https://www.intosai.org/)
 
 # OTHER WEBSITES
 - [Accounting Standards Council](https://www.asc.gov.sg/)
