@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 12.00pm
-        description: ""
+        description: Closed on Weekends and Public Holidays
     maps_link: ""
     title: AGO Headquarters
 contacts:
