@@ -2,4 +2,5 @@ collections:
   our-audits:
     output: true
     order:
+      - Standards & Methodology.md
       - Our Audits.md
