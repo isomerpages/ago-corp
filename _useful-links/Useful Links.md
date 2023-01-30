@@ -21,4 +21,4 @@ Public Accounts Committee (PAC) Reports
 - [Singapore Government Directory Interactive (SGDi)](https://www.sgdi.gov.sg/ministries)
 - Singapore Government[Singapore Government Homepage](https://www.gov.sg/)
 - [Singapore Parliament Reports] (https://sprs.parl.gov.sg/selectcommittee/#/home)
-- Singapore Statutes Online
+- [Singapore Statutes Online](https://sso.agc.gov.sg/)
