@@ -8,7 +8,7 @@ permalink: /faq/
 
 AGO's duties and responsibilities are governed primarily by the Constitution of the Republic of Singapore and the Audit Act. In addition, the Public Sector (Governance) Act provides for the financial statements of most statutory boards to be audited by the Auditor-General or another auditor appointed by the Minister responsible in consultation with the Auditor-General. Click here for more details on AGO's audit authority.
 
- 
+
 
 2. How is the independence of the Auditor-General preserved?
 
