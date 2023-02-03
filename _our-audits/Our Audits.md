@@ -3,6 +3,7 @@ title: Our Audits
 permalink: /ouraudits/
 description: ""
 ---
+![](/images/AGOEntrance.jpg)
 
 AGO carries out the following types of audits:
 
