@@ -2,5 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - Audit FAQs.md
       - General FAQs.md
+      - Audit FAQs.md
