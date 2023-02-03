@@ -2,11 +2,52 @@
 title: FAQ
 permalink: /faq/
 ---
+### **General**
 
-### **FAQ**
+1. What legislation governs AGO's duties and responsibilities?
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+AGO's duties and responsibilities are governed primarily by the Constitution of the Republic of Singapore and the Audit Act. In addition, the Public Sector (Governance) Act provides for the financial statements of most statutory boards to be audited by the Auditor-General or another auditor appointed by the Minister responsible in consultation with the Auditor-General. Click here for more details on AGO's audit authority.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+ 
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+2. How is the independence of the Auditor-General preserved?
+
+The Auditor-General is appointed by the President and not by the Government whose accounts are subject to his audit. There are also provisions in the Constitution of the Republic of Singapore to protect his independence. For example, the Auditor-General can only be removed under specific circumstances and subject to adjudication by an independent panel of judges. This ensures that the Auditor-General is able to audit without fear or favour.
+
+ 
+
+3. How do AGO's roles and responsibilities differ from those of commercial auditing firms?
+
+AGO's responsibility goes beyond rendering an opinion on the financial statements. It covers other aspects to enhance accountability to the President and Parliament on the use and management of public funds. These include audits to check for financial irregularities and to ascertain whether there has been excess, extravagance or gross inefficiency leading to waste, and whether measures to prevent them are in place.
+
+ 
+
+4. What is the relationship between AGO and the Public Accounts Committee?
+
+The Public Accounts Committee comprises a group of Members of Parliament and acts like the "Audit Committee" of the Government. It considers the Auditor-General's Report, and examines the Government Financial Statements and other accounts which are presented to the Parliament. The Auditor-General attends the meetings of the Committee and helps to clarify matters reported in the Auditor-General's Report. 
+
+ 
+
+5. Is AGO part of the Ministry of Finance?
+
+AGO is not part of the Ministry of Finance or, for that matter, any other ministry. It is an independent organ of state like the Judiciary and the Attorney-General's Chambers. The Auditor-General is appointed by the President. He submits his annual report to the President and the report is then presented to Parliament.
+
+ 
+
+6. What is the difference in roles between AGO and the Accountant-General's Department (AGD)?
+
+AGD is a department under the Ministry of Finance (MOF). It is headed by the Accountant-General who is in effect the "Chief Financial Officer" of the Government. AGO is an organ of state headed by the Auditor-General, and is the "External Auditor" of the Government.
+
+
+
+7. What are the qualifications of AGO auditors?
+
+Most of the auditors in AGO have accountancy or related degrees. A few have other types of degrees but they would have the background or expertise relevant to their audit work. Most have professional qualifications such as Chartered Accountant (Singapore), Certified Information Systems Auditor and Chartered Financial Analyst. 
+
+
+
+8. What kind of training and development opportunities are available to an AGO auditor?
+
+We provide structured and on-the-job training and development opportunities to help maximise each AGO auditor’s potential and performance. These include courses on auditing techniques, financial reporting standards, auditing standards, audit report writing, public accountability, corporate governance, procurement and contracts management, and use of computer aided audit tools. Selected auditors in management positions are also trained by AGO’s counterpart in the United States, the Government Accountability Office (GAO).
+
+Please refer to the AGO Academy website for more information.
