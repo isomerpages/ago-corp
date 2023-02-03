@@ -3,9 +3,6 @@ title: Audit FAQs
 permalink: /FAQ/audit/
 description: ""
 ---
-
-
-
 ### **Audit**
 
 **1. What entities can AGO audit?**
@@ -18,7 +15,7 @@ In addition, the Auditor-General may conduct "follow-the-dollar" audits on non-G
 **2. What kind of audits does AGO carry out?**
 AGO carries out financial regularity audits and selective audits as depicted in the Venn diagram below. 
 
-
+![](/images/FAQVennDiagram.jpg)
 
 A financial regularity audit of an entity involves the following:
  
