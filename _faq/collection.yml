@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - General.md
-      - Audit FAQs.md
+      - Audit.md
       - Reports FAQs.md
       - Providing Information on Suspected Financial Irregularities.md
