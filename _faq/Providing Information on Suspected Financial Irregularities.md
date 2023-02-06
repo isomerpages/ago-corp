@@ -32,4 +32,3 @@ Findings from investigations based on information received from the public are i
 **5. Will the identity of the informant be kept confidential?**
 
 As a policy, AGO keeps the identity of informants confidential (unless disclosure is required by law).
-
