@@ -27,6 +27,6 @@ description: ""
     
       
     
-4.  How do I obtain or purchase a copy of the annual Report of the Auditor-General that was presented to the Parliament?
+**4.  How do I obtain or purchase a copy of the annual Report of the Auditor-General that was presented to the Parliament?**
     
     The published reports are available for reference at the [National Library](http://www.nlb.gov.sg/) and can be purchased from the [Toppan Leefung Pte Ltd](http://www2.toppanleefung.com/webshop/).
