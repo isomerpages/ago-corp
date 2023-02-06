@@ -3,7 +3,6 @@ title: Reports FAQs
 permalink: /faq/reports/
 description: ""
 ---
-
 **1.  What types of reports does AGO produce?**
     
     AGO produces the following reports:  
