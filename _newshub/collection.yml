@@ -2,8 +2,8 @@ collections:
   newshub:
     output: true
     order:
-      - News & Events/2021.md
-      - News & Events/2022.md
       - News & Events/.keep
+      - News & Events/2022.md
+      - News & Events/2021.md
       - Sample page on table.md
       - Visitor Gallery.md
