@@ -2,5 +2,6 @@ collections:
   newshub:
     output: true
     order:
+      - 2022.md
       - News & Events.md
       - Visitor Gallery.md
