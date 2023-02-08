@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - News & Events/.keep
-      - 2022.md
       - News & Events.md
       - Visitor Gallery.md
