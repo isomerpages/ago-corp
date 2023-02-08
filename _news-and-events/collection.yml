@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - 2022.md
       - 2012.md
       - 2011.md
