@@ -26,4 +26,9 @@ sections:
   - resources:
       title: Annual Report of the Auditor-General
       button: Read the latest report
+  - infopic:
+      title: Annual Report of the Auditor General
+      button: Read the latest report
+      url: /annualreports
+      alt: Image alt text
 ---
