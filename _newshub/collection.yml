@@ -2,6 +2,7 @@ collections:
   newshub:
     output: true
     order:
+      - Visitor Gallery/2018.md
       - Visitor Gallery/.keep
       - Visitor Gallery/2022.md
       - Visitor Gallery/2019.md
