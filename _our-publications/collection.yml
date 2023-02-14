@@ -2,5 +2,6 @@ collections:
   our-publications:
     output: true
     order:
+      - AR Infographics.md
       - Annual Reports.md
       - Other Publications.md
