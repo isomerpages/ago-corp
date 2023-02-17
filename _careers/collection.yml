@@ -2,9 +2,6 @@ collections:
   careers:
     output: true
     order:
-      - Awards/.keep
-      - Awards/Hear from our Awardees.md
-      - Awards/National Day Award Recipients.md
       - Career Opportunities.md
       - Experienced Professionals.md
       - Why Join Us?/.keep
@@ -18,3 +15,6 @@ collections:
       - Life As An AGO Auditor.md
       - Scholarships.md
       - Internship.md
+      - Awards/.keep
+      - Awards/Hear from our Awardees.md
+      - Awards/National Day Award Recipients.md
