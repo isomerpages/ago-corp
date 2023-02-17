@@ -2,5 +2,6 @@ collections:
   ago-academy:
     output: true
     order:
+      - Seminars and Workshops.md
       - AGO Academy.md
       - Foundation Course.md
