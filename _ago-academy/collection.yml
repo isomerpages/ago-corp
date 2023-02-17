@@ -2,4 +2,5 @@ collections:
   ago-academy:
     output: true
     order:
+      - AGO Academy.md
       - Staff Learning and Development.md
