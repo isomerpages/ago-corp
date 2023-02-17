@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Hear From Our People/.keep
-      - Hear From Our People.md
       - Career Opportunities.md
       - Experienced Professionals.md
       - Why Join Us?/.keep
