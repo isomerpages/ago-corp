@@ -9,6 +9,8 @@ links:
   - title: Careers
     collection: careers
   - title: AGO Academy
+    collection: ago-academy
+  - title: AGO Academy
     url: /academy
   - title: Newshub
     collection: newshub
@@ -16,5 +18,3 @@ links:
     collection: useful-links
   - title: Newshub (new)
     resource_room: true
-  - title: AGO Academy
-    collection: ago-academy
