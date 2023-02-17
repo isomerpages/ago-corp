@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Grow your career with us/Why Join Us?.md
       - Grow your career with us/.keep
       - Career Opportunities.md
       - Experienced Professionals.md
