@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Awards/National Day Award Recipients.md
       - Awards/Hear from our Awardees.md
       - Awards/.keep
       - Career Opportunities.md
