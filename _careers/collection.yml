@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Awards/.keep
-      - Awards.md
       - Career Opportunities.md
       - Experienced Professionals.md
       - Why Join Us?/.keep
