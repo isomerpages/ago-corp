@@ -2,9 +2,9 @@ collections:
   ago-academy:
     output: true
     order:
-      - Training Sponsorships.md
-      - Learning Days.md
-      - Seminars and Workshops.md
       - AGO Academy.md
       - Foundation Course.md
+      - Seminars and Workshops.md
+      - Learning Days.md
+      - Training Sponsorships.md
       - Learning and Development/.keep
