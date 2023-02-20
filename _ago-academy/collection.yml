@@ -2,8 +2,8 @@ collections:
   ago-academy:
     output: true
     order:
-      - Foundation Course.md
       - AGO Academy.md
+      - Foundation Course.md
       - Learning and Development/.keep
       - Learning and Development/Seminars and Workshops.md
       - Learning and Development/Learning Days.md
