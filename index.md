@@ -27,7 +27,7 @@ sections:
       title: Annual Report of the Auditor General
       button: Read the latest report
       url: /annualreports
-      image: /images/ARcoverFY2122.jpg
+      image: /images/ARcoverFY2122resized.jpg
   - resources:
       title: Annual Report of the Auditor-General
       button: Read the latest report
