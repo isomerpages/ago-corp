@@ -12,7 +12,7 @@ links:
     collection: ago-academy
   - title: AGO Academy
     url: /academy
+  - title: Newshub
+    resource_room: true
   - title: Useful Links
     collection: useful-links
-  - title: Newshub (new)
-    resource_room: true
