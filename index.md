@@ -30,6 +30,5 @@ sections:
       image: /images/ARcoverFY2122resized.jpg
       alt: AnnualReport
   - resources:
-      title: Annual Report of the Auditor-General
-      button: Read the latest report
+      title: Newshub
 ---
