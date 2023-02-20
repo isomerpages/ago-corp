@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NewWingresizedphoto.jpg
+      background: /images/HeroBannerLogo.png
       key_highlights:
         - title: Audits
           description: ""
