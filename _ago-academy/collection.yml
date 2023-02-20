@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Learning and Development/.keep
-      - Learning and Development/AGO Academy.md
       - Learning and Development/Foundation Course.md
       - Learning and Development/Seminars and Workshops.md
       - Learning and Development/Learning Days.md
