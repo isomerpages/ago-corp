@@ -3,6 +3,8 @@ title: Annual Reports
 permalink: /annualreports/
 description: ""
 ---
+![](/images/officers-reading-ar.jpg)
+
 The Report of the Auditor-General for the Financial Year 2021/22 was presented to President on 4 July 2022 and tabled in Parliament on 19 July 2022.
 
 Click to download the latest [Report](/files/ARs/AR_FY2021-22.pdf).
