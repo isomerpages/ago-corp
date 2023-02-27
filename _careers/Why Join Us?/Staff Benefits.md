@@ -4,9 +4,10 @@ permalink: /careers/why-join-us/staffbenefits/
 description: ""
 third_nav_title: Why Join Us?
 ---
-
-
 ![](/images/FB_IMG_1675151572724.jpg)
+
+### Staff Benefits
+
 *   Attractive Remuneration Package which includes Performance Bonus, Market Adjustment Component and Retention Bonus for eligible officers
 *   Medical/Dental Coverage
 *   Long Service Recognition
