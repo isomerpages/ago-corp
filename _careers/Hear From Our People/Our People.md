@@ -4,6 +4,8 @@ permalink: /careers/our-people/
 description: ""
 third_nav_title: Hear From Our People
 ---
+### Hear from Our People
+
 |“As a final-year accountancy undergraduate in Nanyang Technological University, I was looking out for a career which was different from the conventional route to join one of the Big Four accounting firms. The audit findings flagged by AGO auditors piqued my interest and the role of a government auditor appeared to be a meaningful role in which my skills and training could be put to impactful use for a wider public purpose.” - **Sim Sze Xiong, Deputy Director** | ![](/images/Sim%20Sze%20Xiong%20(resized).jpg) |
 | -------- | -------- |
 | ![](/images/Page%206_Sabrina%20Fok%20(resized).jpg)     |“My work in AGO has been both challenging and fulfilling. In my 4.5 years here, I have been exposed to both external auditing and policy work. I was also part of the team that helped to implement the Quality Assurance Framework in AGO. The patient coaching, guidance and encouragement that I received from my bosses and colleagues have also helped me to grow. Seeing my colleagues’ dedication and commitment to serving the nation has inspired and motivated me to emulate their professionalism as national auditors.”- **Sabrina Fok, Deputy Director**    |
