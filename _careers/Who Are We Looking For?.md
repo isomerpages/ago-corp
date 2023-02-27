@@ -3,8 +3,9 @@ title: Who Are We Looking For?
 permalink: /careers/who-are-we-looking-for/
 description: ""
 ---
-
 ![](/images/Who%20are%20we%20looking%20for.png)
+
+### Who are we looking for? 
 
 AGO is looking for dynamic, driven individuals with good interpersonal skills and a passion to contribute to the work of AGO in enhancing public accountability.
 
