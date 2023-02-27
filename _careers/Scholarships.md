@@ -3,10 +3,10 @@ title: Scholarships
 permalink: /careers/scholarships/
 description: ""
 ---
-![](/images/picture1.jpg)
+![](/images/picture1%20(resized2).jpg)
+
 ### AGO Auditing Service Scholarship
 -----------------------------------
-
 AGO plays an important role in enhancing public accountability and governance in the public sector. AGO checks on the proper accounting of public monies and use of public resources through various types of audits. Our observations include system weaknesses, non-compliance with control procedures or legislation, and instances of excess, extravagance, or gross inefficiency leading to waste in the use of public funds and resources.
 
 As the nation’s auditor, AGO believes in nurturing outstanding and talented individuals who desire to serve Singapore and are interested in pursuing a fulfilling career in public sector auditing. 
@@ -61,4 +61,4 @@ Applicants for the undergraduate scholarships are welcome to apply prior to purs
 
 Click [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships) to find out more information on PSC Scholarship (Public Finance).
 
-#### Apply for these scholarships [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply)! 
+#### Apply for these scholarships [here](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply)!
