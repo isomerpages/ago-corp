@@ -3,9 +3,7 @@ title: Career Opportunities
 permalink: /careers/career-opportunities/
 description: ""
 ---
-
-
-
+![](/images/PageBanner1.jpg)
 AGO invites dynamic, driven individuals with an analytical, enquiring mind and good interpersonal skills to join us.
 
 If you are looking for a career that is rewarding and fulfilling and would like to contribute towards enhancing public accountability, join our team of audit professionals now.
