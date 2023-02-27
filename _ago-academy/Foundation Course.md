@@ -3,9 +3,9 @@ title: Foundation Course
 permalink: /ago-academy/foundation-course/
 description: ""
 ---
-![](/images/website_fc.jpg)
-
 ### Foundation Course
+
+![](/images/website_fc.jpg)
 
 AGO Academy conducts Foundation Course for new AGO officers on an annual basis to equip them with the competencies to perform public sector audits. The courses include: 
 * Public Service Code of Conduct 
