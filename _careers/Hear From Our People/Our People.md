@@ -4,7 +4,8 @@ permalink: /careers/our-people/
 description: ""
 third_nav_title: Hear From Our People
 ---
-### Hear from Our People
+<h3> Hear from Our People </h3>
+<br>
 <table>
 	<tr>
 		<td>“As a final-year accountancy undergraduate in Nanyang Technological University, I was looking out for a career which was different from the conventional route to join one of the Big Four accounting firms. The audit findings flagged by AGO auditors piqued my interest and the role of a government auditor appeared to be a meaningful role in which my skills and training could be put to impactful use for a wider public purpose.” 
@@ -36,5 +37,5 @@ third_nav_title: Hear From Our People
 	</tr>
 	<tr>
 </table>
-<br>
+
 Mabel Watt shared her view of her career with AGO in Balancing Act, an editorial write-up in Straits Times Careers in the Public Sector.
