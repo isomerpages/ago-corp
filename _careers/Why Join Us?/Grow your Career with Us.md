@@ -4,10 +4,8 @@ permalink: /careers/why-join-us/grow-your-career-with-us/
 description: ""
 third_nav_title: Why Join Us?
 ---
-<table> 
-	<td><img src="/images/Ameer%20(final)3.jpg" alt="Ameer" style="width:200px;"/></td>
-	<td><img src="/images/Ameer%20(final)3.jpg" alt="Ameer" style="width:200px;"/></td>
-</table>
+<img src="/images/Ameer%20(final)3.jpg" alt="Ameer" style="width:200px;"/>
+
 
 
 ### Grow Your Career With Us
