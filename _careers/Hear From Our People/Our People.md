@@ -12,7 +12,7 @@ third_nav_title: Hear From Our People
 			<br>
 			<br>
 			<b>Sim Sze Xiong, Deputy Director</b> </td>
-		<td><img src="/images/Sim%20Sze%20Xiong%20(resized).jpg" style="width:1000px;"/></td>
+		<td><img src="/images/Sze%20Xiong.jpg" style="width:1000px;"/></td>
 	</tr>
 	<tr>
 		<td><img src="/images/Page%206_Sabrina%20Fok%20(resized).jpg" style="width:1000px;"/></td>
