@@ -37,5 +37,3 @@ third_nav_title: Hear From Our People
 	</tr>
 	<tr>
 </table>
-
-Mabel Watt shared her view of her career with AGO in Balancing Act, an editorial write-up in Straits Times Careers in the Public Sector.
