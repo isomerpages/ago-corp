@@ -25,7 +25,7 @@ third_nav_title: Hear From Our People
 		<td>“The opportunity to audit government ministries and agencies which are key establishments in Singapore allows me, being a Singaporean, to do something for my nation using what I have been trained in. Today, auditing takes on a new meaning and purpose for me. It is no longer business as usual but unusual business – auditing with a mission: to see that public funds are well spent and accounted for.”
 			<br>
 			<br>
-			<b>Chen Sze Leng,  Audit Director</b> </td>
+			<b>Chen Sze Leng, Audit Director</b> </td>
 		<td><img src="/images/Sze%20Leng%20(resized).jpg" style="width:1000px;"/></td>
 	</tr>
 	<tr>
