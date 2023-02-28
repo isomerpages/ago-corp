@@ -4,7 +4,7 @@ permalink: /careers/our-people/
 description: ""
 third_nav_title: Hear From Our People
 ---
-<h3> Hear from Our People </h3>
+### Hear from Our People 
 <br>
 <table>
 	<tr>
