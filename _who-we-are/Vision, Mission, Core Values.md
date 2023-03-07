@@ -20,6 +20,7 @@ description: ""
 		<td> 
 			<br>
 			<b>Independence 
+				</td>
 		<td>
 			<ul>
 				<li>We carry out our audits without fear or favour.
@@ -28,6 +29,7 @@ description: ""
 				</li>
 			</ul>
 		</td>
+	</tr>
 	<tr>
 		<td> 
 			<br>
@@ -72,3 +74,4 @@ description: ""
 			</ul>
 		</td>
 	</tr>
+				</table>
