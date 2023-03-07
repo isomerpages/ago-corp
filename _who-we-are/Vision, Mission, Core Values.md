@@ -17,40 +17,60 @@ description: ""
 
 <table>
 	<tr>
-		<td> <b>Independence 
+		<td> 
+			<br>
+			<b>Independence 
 		</td>
 		<td>
-* 			We carry out our audits without fear or favour. 
-			<br>
-* 			We conduct ourselves at all times in a manner consistent with our independence.
+			<ul>
+				<li>We carry out our audits without fear or favour.
+				</li>
+				<li>We conduct ourselves at all times in a manner consistent with our independence.
+				</li>
+			</ul>
 		</td>
 	</tr>
 	<tr>
-		<td> <b>Professionalism 
+		<td> 
+			<br>
+			<b>Professionalism 
 		</td>
 		<td>
-* 			We strive for the highest standard of professional conduct. 
-			<br>
-* 			We benchmark our work to recognised international and professional auditing standards
+			<ul>
+				<li>We strive for the highest standard of professional conduct. 
+				</li>
+				<li>We benchmark our work to recognised international and professional auditing standards
+				</li>
+			</ul>
 		</td>
 	</tr>
 		<tr>
-		<td> <b>Integrity 
+		<td> 
+			<br>
+			<b>Integrity 
 		</td>
 		<td>
-* 			We strive to uphold the public trust in our work.
-			<br>
-* 			We carry out our work with the highest standard of fairness and objectivity
+				<ul>
+				<li>We strive to uphold the public trust in our work. 
+				</li>
+				<li>We carry out our work with the highest standard of fairness and objectivity
+				</li>
+			</ul>
 		</td>
 	</tr>
 			<tr>
-		<td> <b>Excellence 
+		<td>
+			<Br>
+			<b>Excellence 
 		</td>
 		<td>
-* 			We strive to be the best in what we do.
-			<br>
-* 			We continually look for ways to improve the way we do our work.
-			<br>
-* 			We bring out the best in our people.
+		<ul>
+				<li>We strive to be the best in what we do.
+				</li>
+				<li>We continually look for ways to improve the way we do our work.
+				</li>
+				<li>We bring out the best in our people.
+				</li>
+			</ul>
 		</td>
 	</tr>
