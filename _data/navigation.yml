@@ -12,3 +12,5 @@ links:
     collection: ago-academy
   - title: Newshub
     resource_room: true
+  - title: Useful Links
+    url: /useful-links/
