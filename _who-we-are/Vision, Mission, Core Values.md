@@ -14,4 +14,24 @@ description: ""
 ## Our Core Values
 ![](/images/CoreValue.jpg)
 
-
+<table>
+	<th>
+	<td></td>
+	<td></td>
+	</th>
+	<tr>
+		<td><b>Independence</b></td>
+		<td>
+			<ul>
+				<li>We carry out our audits without fear or favour</li>
+			</ul>
+		</tr>
+	<tr>
+		<td><b>Professionalism</b></td>
+		<td>
+			<ul>
+				<li>We strive for the highest standards of professional conduct</li>
+			</ul>
+		</tr>
+</table>
+		 
