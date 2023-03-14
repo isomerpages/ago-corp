@@ -3,14 +3,10 @@ title: Audit
 permalink: /faq-audit/
 description: ""
 ---
-
-
-
-
-
 ### **Audit**
 
 **1. What entities can AGO audit?**
+
 The Auditor-General is empowered to audit the accounts of the Government and public authorities and bodies administering public funds as prescribed under the law. Where it is not provided for under any written law, the Auditor-General may audit the accounts of the public authority or body with Minister’s consent. 
 
 In addition, the Auditor-General may conduct "follow-the-dollar" audits on non-Government entities under the Minister's direction.
