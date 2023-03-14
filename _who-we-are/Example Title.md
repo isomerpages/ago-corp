@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 	<tr> 
-		<td><br><b>Independence</td>
+		<td><b>Independence</td>
 		<td>
 		<ul>
 			<li>We carry out our audits without fear or favour.</li>
@@ -14,7 +14,7 @@ description: ""
 		</td>
 	</tr>
 		<tr> 
-		<td><br><b>Professionalism</td>
+		<td><b>Professionalism</td>
 		<td>
 		<ul>
 			<li>We strive for the highest standard of professional conduct.</li>
