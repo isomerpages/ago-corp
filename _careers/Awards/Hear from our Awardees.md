@@ -4,9 +4,6 @@ permalink: /careers/hearfromourawardees/
 description: ""
 third_nav_title: Awards
 ---
-
-
-
 ### Recipients Of National Day Award
 --------------------------------
 ![](/images/stevenchoy.jpg) 
@@ -22,7 +19,7 @@ Let’s hear from him on his thoughts on receiving the NDA below.  
 I feel honoured and humbled by this award. It does feel good and heartening that my 28 years of service have been recognised. 
 
 **2  What is your most memorable contribution to the public service?**  
-If Draft Paragraphs (DPs) reported in the Annual Report (AR) is considered a contribution to public service, then my most memorable one would be my first Selection Audit (SA) project in 2008 when AGO first started SA (was known as Performance Audit then). The DP published in the FY2008/09 AR was exceptionally long (8 full pages) and the Final Management Letters with more than 100 pages was bind into a book before issuing to the agency. This was quite an accomplishment as we were all new to SA at that time. This could not have been achieved without a strong and cohesive team and the commitment by each member of the team.
+If Draft Paragraphs (DPs) reported in the Annual Report (AR) is considered a contribution to public service, then my most memorable one would be my first Selective Audit (SA) project in 2008 when AGO first started SA (was known as Performance Audit then). The DP published in the FY2008/09 AR was exceptionally long (8 full pages) and the Final Management Letters with more than 100 pages was bind into a book before issuing to the agency. This was quite an accomplishment as we were all new to SA at that time. This could not have been achieved without a strong and cohesive team and the commitment by each member of the team.
 
 **3  Being a recipient of the award, how would you inspire others?**  
 I am not good at words. Perhaps from my actions of rolling up sleeves (literally!) and getting the job done, it may inspire others.
