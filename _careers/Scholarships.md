@@ -30,8 +30,8 @@ If you are a driven individual with an analytical and enquiring mind and would l
 *   Nanyang Technological University
 *   Singapore Management University
 
-**Career, Training Opportunities & Job Rotation
-**
+**Career, Training Opportunities & Job Rotation**
+
 Upon graduation, the scholars will embark on a rewarding career in public sector auditing. Comprehensive training designed to develop individuals in maximising their potential will be provided. In addition, job rotation will be provided to allow exposure to different aspects of audit.
 
 **Student Exchange Programme**
