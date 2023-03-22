@@ -12,7 +12,6 @@ description: ""
 
 
 ## Our Core Values
-![](/images/CoreValue.jpg)
 
 <table>
 	<th>
