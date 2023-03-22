@@ -1,0 +1,20 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Career Opportunities.md
+      - Experienced Professionals.md
+      - Why Join Us?/.keep
+      - Why Join Us?/Grow your Career with Us.md
+      - Why Join Us?/Accredited Training Organisation (ATO).md
+      - Why Join Us?/Training and Development.md
+      - Why Join Us?/Staff Benefits.md
+      - Who Are We Looking For?.md
+      - Hear From Our People/.keep
+      - Hear From Our People/Our People.md
+      - Life As An AGO Auditor.md
+      - Scholarships.md
+      - Internship.md
+      - Awards/.keep
+      - Awards/Hear from our Awardees.md
+      - Awards/National Day Award Recipients.md

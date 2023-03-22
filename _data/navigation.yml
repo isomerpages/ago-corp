@@ -1,17 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/AGOlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
+  - title: Who we are
+    collection: who-we-are
+  - title: Our Audits
+    collection: our-audits
+  - title: Publications
+    collection: our-publications
+  - title: Careers
+    collection: careers
+  - title: AGO Academy
+    collection: ago-academy
+  - title: Newshub
     resource_room: true
+  - title: Useful Links
+    url: /useful-links/
