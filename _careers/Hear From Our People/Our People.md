@@ -16,7 +16,7 @@ third_nav_title: Hear From Our People
 	</tr>
 	<tr>
 		<td><img src="/images/Sabrina.jpg" style="width:1000px;"/></td>
-		<td>“My work in AGO has been both challenging and fulfilling. In my 4.5 years here, I have been exposed to both external auditing and policy work. I was also part of the team that helped to implement the Quality Assurance Framework in AGO. The patient coaching, guidance and encouragement that I received from my bosses and colleagues have also helped me to grow. Seeing my colleagues’ dedication and commitment to serving the nation has inspired and motivated me to emulate their professionalism as national auditors.”
+		<td>“My work in AGO has been both challenging and fulfilling. In AGO, I have been exposed to both external auditing and policy work. I was also part of the team that helped to implement the Quality Assurance Framework in AGO. The patient coaching, guidance and encouragement that I received from my bosses and colleagues have also helped me to grow. Seeing my colleagues’ dedication and commitment to serving the nation has inspired and motivated me to emulate their professionalism as national auditors.”
 			<br>
 			<br>
 			<b>Sabrina Fok, Deputy Director</b> </td>
