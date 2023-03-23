@@ -6,3 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+On 15 March 2023, AGO, as chair of the ASEANSAI Rules & Procedures Committee (RPC), hosted the RPC Meeting in hybrid format. The meeting was attended by AG, AAG Wee Leng and DD Sabrina.
+ 
+ASEANSAI, which stands for ASEAN Supreme Audit Institutions (SAIs), comprises the SAIs of the 10 ASEAN Member States. The RPC is 1 of the 4 committees under ASEANSAI. One of the key responsibilities of the RPC is to review and update the ASEANSAI Rules and Procedures (R&P). The R&P lays down the rules and procedures relating to financial, administrative and secretariat matters.
+ 
+AG started the meeting by welcoming the delegations and thanking them for taking the time to review the R&P. The RPC then had a lively and fruitful discussion on the proposed amendments to the ASEANSAI R&P. At the end of the meeting, AG thanked the delegations for making time to attend the RPC meeting and also took a group photo with all the delegates.
+
