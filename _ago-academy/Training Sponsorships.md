@@ -1,6 +1,6 @@
 ---
 title: Training Sponsorships
-permalink: /ago-academy/Learning-and-Development/training-sponsorships/
+permalink: /ago-academy/learning-and-development/training-sponsorships/
 description: ""
 ---
 ### Training Sponsorships

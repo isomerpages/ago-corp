@@ -1,6 +1,6 @@
 ---
 title: The Public Service Commission Scholarships Award Ceremony 2022
-permalink: /Resources/news-and-events/PSC-scholarship-award2022/
+permalink: /resources/news-and-events/psc-scholarship-award2022/
 date: 2022-07-20
 layout: post
 description: ""

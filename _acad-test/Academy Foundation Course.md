@@ -1,6 +1,6 @@
 ---
 title: Academy Foundation Course
-permalink: /acad-test/permalink
+permalink: /acad-test/permalink/
 description: ""
 image: ""
 ---

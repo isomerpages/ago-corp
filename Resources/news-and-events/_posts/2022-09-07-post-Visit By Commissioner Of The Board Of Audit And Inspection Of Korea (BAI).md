@@ -1,6 +1,6 @@
 ---
 title: Visit By Commissioner Of The Board Of Audit And Inspection Of Korea (BAI)
-permalink: /Resources/news-and-events/BAI-visits-AGO-2022/
+permalink: /resources/news-and-events/bai-visits-ago-2022/
 date: 2022-09-07
 layout: post
 description: ""

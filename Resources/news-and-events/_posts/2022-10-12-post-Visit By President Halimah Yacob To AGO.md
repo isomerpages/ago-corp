@@ -1,6 +1,6 @@
 ---
 title: Visit By President Halimah Yacob To AGO
-permalink: /Resources/news-and-events/Visit-By-President-Halimah-Yacob-To-AGO/
+permalink: /resources/news-and-events/visit-by-president-halimah-yacob-to-ago/
 date: 2022-10-12
 layout: post
 description: ""
