@@ -1,6 +1,6 @@
 ---
 title: Workshop On Audit Tools And Technique For SAI Lao PDR
-permalink: /Resources/news-and-events/Workshop-On-Audit-Tools-And-Technique/
+permalink: /resources/news-and-events/workshop-on-audit-tools-and-technique/
 date: 2022-10-26
 layout: post
 description: ""

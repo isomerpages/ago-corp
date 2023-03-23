@@ -1,6 +1,6 @@
 ---
 title: Visit By National Audit Office Of China Officials
-permalink: /Resources/news-and-events/CNAO-2019/
+permalink: /resources/news-and-events/cnao-2019/
 date: 2019-09-06
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: National Day Award Recipients
-permalink: /careers/Awards/nationaldayawardrecipients/
+permalink: /careers/awards/nationaldayawardrecipients/
 description: ""
 third_nav_title: Awards
 ---

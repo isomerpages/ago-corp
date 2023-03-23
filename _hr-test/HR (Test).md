@@ -1,6 +1,6 @@
 ---
 title: HR (Test)
-permalink: /workspace/hrtest
+permalink: /workspace/hrtest/
 description: ""
 image: /images/NDOC.png
 ---
