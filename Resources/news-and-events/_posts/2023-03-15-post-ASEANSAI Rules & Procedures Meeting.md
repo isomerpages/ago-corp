@@ -12,3 +12,14 @@ ASEANSAI, which stands for ASEAN Supreme Audit Institutions (SAIs), comprises th
  
 AG started the meeting by welcoming the delegations and thanking them for taking the time to review the R&P. The RPC then had a lively and fruitful discussion on the proposed amendments to the ASEANSAI R&P. At the end of the meeting, AG thanked the delegations for making time to attend the RPC meeting and also took a group photo with all the delegates.
 
+![](/images/News%20&%20Events%20Photos/2023/2023RPCMeet1.jpg)
+*AG bringing the meeting through the agenda after her opening remarks.*
+
+![](/images/News%20&%20Events%20Photos/2023/2023RPCMeet2.jpg)
+*The RPC discussing on the proposed amendments to the ASEANSAI R&P.*
+
+![](/images/News%20&%20Events%20Photos/2023/2023RPCMeet3.jpg)
+*Group photo at the end of the meeting.*
+
+![](/images/News%20&%20Events%20Photos/2023/2023RPCMeet4.jpg)
+*The Singapore delegation and SPPD together with the two attendees (Ms Yuli and Ms Margareta) from the ASEANSAI Secretariat who attended the meeting in person.*
