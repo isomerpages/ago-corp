@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://ago-corp-staging.netlify.app
-prod: https://ago-corp-prod.netlify.app
+staging: https://staging.d3kwoowvdm5w35.amplifyapp.com/
+prod: https://master.d3kwoowvdm5w35.amplifyapp.com/
 shareicon: /images/AGOlogo.png
 is_government: true
 facebook-pixel: ""
