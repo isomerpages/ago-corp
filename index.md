@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Audits
           description: ""
-          url: ""
+          url: /ouraudits/
         - title: Publications
           description: ""
-          url: ""
+          url: /annualreports/
         - title: Careers
           description: ""
-          url: ""
+          url: /careers/career-opportunities/
   - infobar:
       title: Who We Are
       description: "AGO is an independent organ of state and the national auditor. "
@@ -32,4 +32,3 @@ sections:
   - resources:
       title: Newshub
 ---
-
