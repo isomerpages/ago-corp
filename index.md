@@ -20,14 +20,14 @@ sections:
           url: /careers/career-opportunities/
   - infobar:
       title: Who We Are
-      description: "AGO is an independent organ of state and the national auditor. "
+      description: AGO is an independent organ of state and the national auditor.
       button: Find out more
       url: /who-we-are/overview/
   - infopic:
       title: Annual Report of the Auditor General
       button: Read the latest report
       url: /annualreports
-      image: /images/ARcoverFY2122resized.jpg
+      image: /images/cover of arfy2223.jpg
       alt: AnnualReport
   - resources:
       title: Newshub
