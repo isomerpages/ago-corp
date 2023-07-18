@@ -21,3 +21,5 @@ Past Reports of the Auditor-General for the Financial Year:
 * [2013/14](/files/ARs/ar_fy2013-14.pdf)
 * [2012/13](/files/ARs/ar_fy2012-12.pdf)
 * [2011/12](/files/ARs/ar_fy2011-12.pdf)
+* [2010/11](/files/ARs/ar_fy2010-11.pdf)
+* [2009/10](/files/ARs/ar_fy2009-10.pdf)
