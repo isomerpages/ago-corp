@@ -27,7 +27,7 @@ sections:
       title: Annual Report of the Auditor General
       button: Read the latest report
       url: /annualreports
-      image: /images/arfy2223 cover.jpg
+      image: /images/ar fy2223 cover.jpg
       alt: AnnualReport
   - resources:
       title: Newshub
