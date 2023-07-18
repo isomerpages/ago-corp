@@ -21,7 +21,7 @@ After a lunch that Auditor-General Ms Goh Soon Poh hosted the Vietnamese delegat
 Throughout the visit, participants from the two SAIs engaged in lively discussions on the topics discussed. 
 
 ![](/images/News%20&%20Events%20Photos/2023/savjul2023-2.jpg)
-*Vietnam’s Deputy Auditor-General (DAG), Mr Dang The Vinh presented AG with a token of appreciation *
+*Vietnam’s Deputy Auditor-General (DAG), Mr Dang The Vinh presented AG with a token of appreciation*
 
 ![](/images/News%20&%20Events%20Photos/2023/savjul2023-3.jpg)
 *Vietnam’s Deputy Auditor-General (DAG), Mr Dang The Vinh presented DAG Rina with a token of appreciation for hosting the meeting*
