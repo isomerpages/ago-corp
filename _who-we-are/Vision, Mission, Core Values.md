@@ -5,20 +5,20 @@ description: ""
 ---
 ![](/images/PageBanner1.jpg)
 
-**Our Vision** is to be a respected national audit institution – Professional, Independent, Effective.
+**Our Vision**&nbsp;is to be a respected national audit institution – Professional, Independent, Effective.
 
-**Our Mission** is to audit and report to the President and Parliament on the proper accounting and use of public resources so as to enhance public accountability and help strengthen the financial governance of the public service.
-<BR> 
+**Our Mission**&nbsp;is to audit and report to the President and Parliament on the proper accounting and use of public resources so as&nbsp;to enhance public accountability and help strengthen the financial governance of the public service.
+<br> 
 
 
 ## Our Core Values
 
 <table>
-	<th>
+	<tbody><tr><th>
+	</th><td></td>
 	<td></td>
-	<td></td>
-	</th>
-	<tr>
+	
+	</tr><tr>
 		<td><b>Independence</b></td>
 		<td>
 			<ul>
@@ -51,8 +51,8 @@ description: ""
 			<ul>
 				<li>We strive to be the best in what we do</li>
 				<li>We continually look for ways to improve the way we do our work</li>
-				<li>We bring our the best in our people</li>
+				<li>We bring out the best in our people</li>
 			</ul>
 		</td>
 	</tr>
-</table>
+</tbody></table>
