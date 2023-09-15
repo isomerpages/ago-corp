@@ -24,4 +24,4 @@ The delegation then visited the National Audit Academy (NAA) in Nilai, Negeri Se
 *The delegation was given a tour of NAD’s Gallery, which showcases the SAI’s history*
 
 ![](/images/News%20&%20Events%20Photos/2023/klvisit2023-3.jpg)
-*AG presented the Malaysian AG with an artwork of Singapore’s national flowers in appreciation of the SAI’s warm hospitality *
+*AG presented the Malaysian AG with an artwork of Singapore’s national flowers in appreciation of the SAI’s warm hospitality*
