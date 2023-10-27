@@ -12,9 +12,9 @@ AG warmly welcomed the delegation and broadly shared on AGO’s role and work. T
 
 ![](/images/News%20&%20Events%20Photos/2023/sai%20uae%209%20oct%2023-1.jpg)
 
-*Group photo of UAE delegates with AGO representatives
+*Group photo of UAE delegates with AGO representatives*
 
-(From left: His Excellency Humaid Obaid Abushibs, President of SAI United Arab Emirates (UAE); Mrs Mai Al Ameri, Director of Strategy and Excellence; AG; Actg GRD Christopher; AD Jovy)*
+*(From left: His Excellency Humaid Obaid Abushibs, President of SAI United Arab Emirates (UAE); Mrs Mai Al Ameri, Director of Strategy and Excellence; AG; Actg GRD Christopher; AD Jovy)*
 
 
 ![](/images/News%20&%20Events%20Photos/2023/sai%20uae%209%20oct%2023-2.jpg)
