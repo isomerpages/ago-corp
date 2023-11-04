@@ -9,7 +9,7 @@ variant: markdown
 ---
 On 2 November 2023, AG led a delegation of 8 to Manila to attend the 7th ASEANSAI Summit hosted by the Commission on Audit of the Republic of Philippines (SAI Philippines). The delegation comprises AAG Mabel, Acting GRD Winston, DD Dan, DD Sabrina, SAD Erika, SAD Sarah and AD Yi Jin. 
 
-The meeting on 2 November 2023 began with the Chairperson of the Commission on Audit of the Republic of Philippines, His Excellency Gamaliel A. Cordoba, warmly welcoming delegates from all 10 ASEAN member SAIs. This was followed by the opening address by the incumbent ASEANSAI Chairperson and Union Auditor General of Myanmar, Her Excellency Prof. Dr. Khin Naing Oo.
+The meeting on 2 November 2023 began with the Chairperson of the Commission on Audit of the Republic of Philippines, His Excellency Gamaliel A. Cordoba, warmly welcoming delegates from all 10 ASEAN member SAIs. This was followed by an opening address by the incumbent ASEANSAI Chairperson and Union Auditor General of Myanmar, Her Excellency Prof. Dr. Khin Naing Oo.
 
 During the meeting, the incumbent ASEANSAI Vice Chair for the term 2021 to 2023, SAI Philippines, assumed the ASEANSAI Chair role for the term from 2023 to 2025, while AGO took over from SAI Philippines as ASEANSAI Vice Chair. ASEANSAI members also approved the 4th Revision of ASEANSAI Rules and Procedures, the report on Cooperative Research SAI Independence in ASEAN Countries, and the report on the Fundamental Audit Guidelines on Construction Projects. 
 
