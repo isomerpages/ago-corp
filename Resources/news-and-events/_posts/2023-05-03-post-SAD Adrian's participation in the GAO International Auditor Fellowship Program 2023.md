@@ -8,8 +8,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
-
 ![](/images/News%20&%20Events%20Photos/2023/2023_GAO_IAFP_1.jpg)
 
 *2023 IAFP Fellows at GAO Headquarters in Washington, D.C.*
