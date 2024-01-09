@@ -3,6 +3,7 @@ title: Hear from our Awardees
 permalink: /careers/hearfromourawardees/
 description: ""
 third_nav_title: Awards
+variant: markdown
 ---
 ### Recipients Of National Day Award
 --------------------------------
@@ -27,10 +28,10 @@ I am not good at words. Perhaps from my actions of rolling up sleeves (literally
 ==============================================================
 
 ![](/images/rina%20photo.jpg)
-**Mdm Chua Pheck Kiang Rina, Assistant Auditor-General (AAG)**
+**Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG)**
 **[Recipient of the 2019 NDA Public Administration Medal (Silver)]**
 
-Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer with SND group. She was subsequently rotated to other groups such as SB5 and SB1, and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance. 
+Being an auditor and serving the nation for 34 years, Rina started out as an Audit Officer with SND group. She was subsequently rotated to other groups such as SB5 and SB1, and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance. 
 
 The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.
 
