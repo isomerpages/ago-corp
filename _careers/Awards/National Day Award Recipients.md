@@ -3,10 +3,11 @@ title: National Day Award Recipients
 permalink: /careers/awards/nationaldayawardrecipients/
 description: ""
 third_nav_title: Awards
+variant: markdown
 ---
 <table> 
 	<!-- don't touch-->
-	<tr>
+	<tbody><tr>
 		<th>Year of Award</th> 
 		<th>The Public Administration Medal (Silver)</th>
 		<th>The Public Administration Medal (Bronze)</th> 
@@ -17,9 +18,9 @@ third_nav_title: Awards
 		<td>2023</td>
 		<td>-</td>
 		<td>-</td>
-		<td>Ms Seng Swee Ee
+		<td>Ms Teng Fei Lin
 						<br>
-						(Senior Assistant Director)</td>
+						(Deputy Director)</td>
 	</tr>
 	<tr> 
 		<td>2022</td>
@@ -85,6 +86,6 @@ third_nav_title: Awards
 						<br>
 						(Senior Assistant Director)</td>
 	</tr>
-</table>
+</tbody></table>
 
-**For more information on the National Day Awards, please visit the Prime Minister's Office's website [here](https://www.pmo.gov.sg/National-Day-Awards).**
+**For more information on the National Day Awards, please visit the Prime Minister's Office's website.**
