@@ -11,11 +11,9 @@ DAG Rina Chua led an AGO delegation to attend the 6th ASEANSAI Senior Officials�
 
 The meeting was chaired by the Audit Board of the Republic of Indonesia and hosted by the National Audit Department of Malaysia as the Chair of ASEANSAI.  Senior representatives from all ten ASEANSAI members attended the meeting.
 
-The Head of ASEANSAI Secretariat, Mr. Bahtiar Arif, gave a speech which marked the beginning of the meeting.  The Auditor General of Malaysia, His Excellency Datuk Nik Azman bin Nik Abdul Majid, also welcomed the participants in his opening address. 
-
 ![](/images/News%20&%20Events%20Photos/2021/2021aseansai1.jpg)
-*Opening address by the Chairman of ASEANSAI (Malaysian AG)*
+*The Chairman of ASEANSAI (Malaysian AG) welcomed all ASEANSAI members to the meeting*
 
 ![](/images/News%20&%20Events%20Photos/2021/2021aseansai2.jpg)
-*DAG speaking on the Rules & Procedures Committee’s Workplan for 2022-2023. SAI Singapore is the Chair of the Committee. *
+*DAG speaking on the Rules & Procedures Committee’s Workplan for 2022-2023. SAI Singapore is the Chair of the Committee.*
 
