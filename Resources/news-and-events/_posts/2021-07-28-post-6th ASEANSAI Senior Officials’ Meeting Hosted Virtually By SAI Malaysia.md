@@ -15,5 +15,5 @@ The meeting was chaired by the Audit Board of the Republic of Indonesia and host
 *The Chairman of ASEANSAI (Malaysian AG) welcomed all ASEANSAI members to the meeting*
 
 ![](/images/News%20&%20Events%20Photos/2021/2021aseansai2.jpg)
-*DAG speaking on the Rules & Procedures Committee’s Workplan for 2022-2023. SAI Singapore is the Chair of the Committee.*
+*DAG updated the meeting on the Rules & Procedures Committee’s Workplan for 2022-2023. SAI Singapore is the Chair of the Committee.*
 
