@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-AG, led a delegation to attend the 15th ASOSAI Assembly and 8th ASOSAI Symposium held virtually from 7 to 8 September 2021. The Assembly was hosted by the State Audit Office of The Kingdom of Thailand, which would assume the position of ASOSAI Chair for the period 2021 to 2024. The 15th ASOSAI Assembly was attended by the Heads of SAIs and delegates from 47 ASOSAI member countries, and representatives from several other international and professional organisations including the INTOSAI Development Initiative.
+AG led a delegation to attend the 15th ASOSAI Assembly and 8th ASOSAI Symposium held virtually from 7 to 8 September 2021. The Assembly was hosted by the State Audit Office of The Kingdom of Thailand, which would assume the position of ASOSAI Chair for the period 2021 to 2024. The 15th ASOSAI Assembly was attended by the Heads of SAIs and delegates from 47 ASOSAI member countries, and representatives from several other international and professional organisations including the INTOSAI Development Initiative.
 
 ![](/images/News%20&%20Events%20Photos/2021/2021asosai-1.jpg)
 *AG representing AGO at the ASOSAI Assembly*
