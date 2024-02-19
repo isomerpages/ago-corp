@@ -5,15 +5,12 @@ date: 2022-10-12
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
-
-
-
 ![](/images/Visitors/President1.jpg)
 *President Halimah Yacob unveiled AGO's 90th Anniversary Medallion*
 
-On the morning of 12 October 2022, President Halimah Yacob visited AGO on the special occasion of AGO’s 90th Anniversary. She was briefed on AGO’s digital transformation journey and AGO’s work in relation to the Protection of Reserves by AD Karishma and DD Sze Xiong respectively.
+On the morning of 12 October 2022, President Halimah Yacob visited AGO on the special occasion of AGO’s 90th Anniversary. She was briefed on AGO’s digital transformation journey and AGO’s work in relation to the Protection of Reserves.
 
 Following the presentations, Madam President viewed an exhibition of AGO’s heritage materials before the launch of AGO’s 90th Anniversary Medallion. 
 
@@ -40,4 +37,3 @@ Madam President also interacted with our newly confirmed AGO officers.
 
 ![](/images/Visitors/President9.jpg)
 *Madam President encouraged our newly confirmed auditors to carry out their roles with conviction and purpose.*
-
