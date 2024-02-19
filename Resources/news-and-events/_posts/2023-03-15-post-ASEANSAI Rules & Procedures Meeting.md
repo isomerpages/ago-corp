@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-On 15 March 2023, AG, as chair of the ASEANSAI Rules & Procedures Committee (RPC), hosted the RPC Meeting in hybrid format. 
+On 15 March 2023, Auditor-General Goh Soon Poh, as chair of the ASEANSAI Rules & Procedures Committee (RPC), hosted the RPC Meeting in hybrid format. 
  
 ASEANSAI, which stands for ASEAN Supreme Audit Institutions (SAIs), comprises the SAIs of the 10 ASEAN Member States. The RPC is 1 of the 4 committees under ASEANSAI. One of the key responsibilities of the RPC is to review and update the ASEANSAI Rules and Procedures (R&P). The R&P lays down the rules and procedures relating to financial, administrative and secretariat matters.
  
