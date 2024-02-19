@@ -12,4 +12,4 @@ variant: markdown
 
 On 7 September 2022, the Commissioner of the Board of Audit and Inspection of Korea (BAI), Mr Cho Eun-Seok, visited AGO. He was accompanied by BAI Director General, Mr Yoo Byoungho and Secretary Mr Lim Kilae.
  
-The delegation was given a warm welcome by AG. This was followed by AGO officials making presentations on the Singapore Government’s COVID-19 response measures and AGO’s audit of COVID-19 related procurement and expenditure at HPB, SLA and MOM. 
+The delegation was given a warm welcome by AG. This was followed by AGO officials making presentations on the Singapore Government’s COVID-19 response measures and AGO’s audit of COVID-19 related procurement and expenditure at selected public agencies. 
