@@ -16,7 +16,7 @@ The 24th INCOSAI discussions centred on two themes – “The role of Supreme Au
 
 The Congress concluded with the adoption of the 24th INCOSAI Rio Declaration, which documents the main conclusions of the Congress and outlines major directions for the future development of public audit. 
 
-The Congress presented opportunities for strengthening AGO’s stakeholder engagements with international counterparts as outlined in one of the AGO 2030 thrusts. On the sidelines of the Congress, AG met with Mr Grant Hehir, Auditor-General of the Commonwealth of Australia. There was a lively sharing on various topics, including the COVID-19 audits carried out by both AGO and the Australian National Audit Office, the findings arising from the audits, as well as the challenges faced performing the audits.
+The Congress presented opportunities for strengthening AGO’s stakeholder engagements with international counterparts as outlined in one of the AGO 2030 thrusts. On the sidelines of the Congress, AG met with Mr Grant Hehir, Auditor-General of the Commonwealth of Australia. There was an engaging discussion on various topics, including the COVID-19 audits carried out by both AGO and the Australian National Audit Office, the findings arising from the audits, as well as the challenges faced performing the audits.
 
 ![](/images/News%20&%20Events%20Photos/2022/24thINCOSAI-3.jpg)
 *AG with Mr Grant Hehir, Auditor-General of the Commonwealth of Australia.*
