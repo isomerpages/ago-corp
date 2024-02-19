@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-On 11 September 2023, AG led an AGO delegation to visit the National Audit Department (NAD) of Malaysia. 
+On 11 September 2023, Auditor-General Goh Soon Poh led an AGO delegation to visit the National Audit Department (NAD) of Malaysia. 
 
 The day trip began with a knowledge-sharing session in the morning, held at NAD's headquarters in Putrajaya. During the session during which both parties shared an overview of their SAIs and audits performed. NAD then shared on its follow-up audit mechanism while AGO shared about its digitalisation journey. 
 
