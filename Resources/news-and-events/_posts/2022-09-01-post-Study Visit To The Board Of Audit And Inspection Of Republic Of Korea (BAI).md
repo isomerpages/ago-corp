@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-DAG Rina Chua led an AGO delegation to visit the Board of Audit and Inspection of the Republic of Korea (BAI) on 1 and 2 September 2022. The purpose of the study visit was to learn more about BAI’s digital and technological transformation strategy including the IT systems developed by BAI and BAI’s manpower development plans. 
+Deputy Auditor-General Rina Chua led an AGO delegation to visit the Board of Audit and Inspection of the Republic of Korea (BAI) on 1 and 2 September 2022. The purpose of the study visit was to learn more about BAI’s digital and technological transformation strategy including the IT systems developed by BAI and BAI’s manpower development plans. 
 
 ![](/images/News%20&%20Events%20Photos/2022/BAI1.jpg)
 
