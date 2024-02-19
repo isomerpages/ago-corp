@@ -5,12 +5,10 @@ date: 2022-11-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-AG, AAG Mabel Watt, DD Sabrina Fok and AD Eddie Soh attended the 24th (XXIV) International Congress of Supreme Audit Institutions (INCOSAI) held in Rio de Janeiro, Brazil, from 9 to 11 November 2022.  The triennial Congress was hosted and chaired by the Federal Court of Accounts of Brazil, which will assume chairmanship of the International Organisation of the Supreme Audit Institutions (INTOSAI) for three years, from 2022 to 2025.  
+AG led an AGO delegation to attend the 24th (XXIV) International Congress of Supreme Audit Institutions (INCOSAI) held in Rio de Janeiro, Brazil, from 9 to 11 November 2022.  The triennial Congress was hosted and chaired by the Federal Court of Accounts of Brazil, which will assume chairmanship of the International Organisation of the Supreme Audit Institutions (INTOSAI) for three years, from 2022 to 2025.  
  
-![](/images/News%20&%20Events%20Photos/2022/24thINCOSAI-1.jpg)
-*AG, AAG Mabel, DD Sabrina and AD Eddie at the XXIV INCOSAI in Rio de Janeiro, Brazil.*
-
 ![](/images/News%20&%20Events%20Photos/2022/24thINCOSAI-2.jpg)
 *AG presenting a token of appreciation to the host of the XXIV INCOSAI, Minister Bruno Dantas – President of the Brazilian Federal Court of Accounts.*
 
@@ -18,7 +16,7 @@ The 24th INCOSAI discussions centred on two themes – “The role of Supreme Au
 
 The Congress concluded with the adoption of the 24th INCOSAI Rio Declaration, which documents the main conclusions of the Congress and outlines major directions for the future development of public audit. 
 
-The Congress presented opportunities for strengthening AGO’s stakeholder engagements with international counterparts as outlined in one of the AGO 2030 thrusts. On the side line of the Congress, AG met with Mr Grant Hehir, Auditor-General of the Commonwealth of Australia. There was a lively sharing on various topics, including the COVID-19 audits carried out by both AGO and the Australian National Audit Office, the findings arising from the audits, as well as the challenges faced performing the audits.
+The Congress presented opportunities for strengthening AGO’s stakeholder engagements with international counterparts as outlined in one of the AGO 2030 thrusts. On the sidelines of the Congress, AG met with Mr Grant Hehir, Auditor-General of the Commonwealth of Australia. There was a lively sharing on various topics, including the COVID-19 audits carried out by both AGO and the Australian National Audit Office, the findings arising from the audits, as well as the challenges faced performing the audits.
 
 ![](/images/News%20&%20Events%20Photos/2022/24thINCOSAI-3.jpg)
 *AG with Mr Grant Hehir, Auditor-General of the Commonwealth of Australia.*
