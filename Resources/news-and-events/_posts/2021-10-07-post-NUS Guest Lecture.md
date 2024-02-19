@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-DAG Rina Chua was invited to be a guest lecturer at an NUS Internal Auditing module on 7 Oct 2021. 
+Deputy Auditor-General Rina Chua was invited to be a guest lecturer at an NUS Internal Auditing module on 7 Oct 2021. 
 
 At the lecture, she shared with the undergraduates about AGO’s role in enhancing public accountability in Singapore and some of the interesting findings of AGO’s past audits.
 
