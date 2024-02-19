@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-AG led an AGO delegation to attend the 24th (XXIV) International Congress of Supreme Audit Institutions (INCOSAI) held in Rio de Janeiro, Brazil, from 9 to 11 November 2022.  The triennial Congress was hosted and chaired by the Federal Court of Accounts of Brazil, which will assume chairmanship of the International Organisation of the Supreme Audit Institutions (INTOSAI) for three years, from 2022 to 2025.  
+Auditor-General Goh Soon Poh led an AGO delegation to attend the 24th (XXIV) International Congress of Supreme Audit Institutions (INCOSAI) held in Rio de Janeiro, Brazil, from 9 to 11 November 2022.  The triennial Congress was hosted and chaired by the Federal Court of Accounts of Brazil, which will assume chairmanship of the International Organisation of the Supreme Audit Institutions (INTOSAI) for three years, from 2022 to 2025.  
  
 ![](/images/News%20&%20Events%20Photos/2022/24thINCOSAI-2.jpg)
 *AG presenting a token of appreciation to the host of the XXIV INCOSAI, Minister Bruno Dantas – President of the Brazilian Federal Court of Accounts.*
