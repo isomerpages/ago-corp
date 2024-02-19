@@ -12,7 +12,7 @@ variant: markdown
 
 *2023 IAFP Fellows at GAO Headquarters in Washington, D.C.*
 
-SAD Adrian Soh participated in the United States Government Accountability Office (GAO)’s International Auditor Fellowship Program (IAFP) scheduled from 3 May 2023 to 28 July 2023. 
+Senior Assistant Director Adrian Soh participated in the United States Government Accountability Office (GAO)’s International Auditor Fellowship Program (IAFP) scheduled from 3 May 2023 to 28 July 2023. 
 
 The year 2023 saw the resumption of the IAFP, which was halted since 2020 due to the Covid-19 pandemic. Adrian was one of 10 fellows representing 8 countries: Albania, Georgia, Greece, Japan, Saudi Arabia, Singapore, Slovak Republic and Uganda. 
 
