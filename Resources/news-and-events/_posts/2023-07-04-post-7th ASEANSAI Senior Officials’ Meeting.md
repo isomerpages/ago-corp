@@ -11,7 +11,7 @@ On 4 and 5 July 2023, Assistant Auditor-General Mabel Watt led a delegation to a
 
 Meeting participants discussed ASEANSAI matters, including proposed amendments to the ASEANSAI Rules and Procedures. 
 
-The meeting also concurred with the re-appointment of SAI Singapore as Chair of the ASEANSAI Rules & Procedures Committee (RPC).
+The meeting also concurred with the re-appointment of SAI Singapore as Chair of the ASEANSAI Rules & Procedures Committee.
 
 ![](/images/News%20&%20Events%20Photos/2023/aseansai_som2023.jpg)
 *AAG Mabel Watt leading the discussion on the proposed amendments to the ASEANSAI rules and procedures*
