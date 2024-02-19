@@ -16,7 +16,7 @@ Senior Assistant Director Adrian Soh participated in the United States Governmen
 
 The year 2023 saw the resumption of the IAFP, which was halted since 2020 due to the Covid-19 pandemic. Adrian was one of 10 fellows representing 8 countries: Albania, Georgia, Greece, Japan, Saudi Arabia, Singapore, Slovak Republic and Uganda. 
 
-The IAFP is part of GAO’s efforts to strengthen the capacity of Supreme Audit Institutions (SAI) around the world. It encompasses three elements: auditing practices, personal and professional development, and cultural exchange. As a graduation requirement, each fellow completed a strategy paper describing an area where their national audit institution could introduce change. To advance IT auditing skills in AGO, Adrian completed a research paper on the topic of “Enhancing IT Auditing Capabilities in AGO”, under the mentorship of Mr Vijay D’Souza (Director for the IT and Cybersecurity mission team). 
+The IAFP is part of GAO’s efforts to strengthen the capacity of Supreme Audit Institutions (SAI) around the world. It encompasses three elements: auditing practices, personal and professional development, and cultural exchange.  
 
 Besides classroom sessions and projects, Adrian also attended public sector conferences, visited the World Bank and participated in learning journeys. There was a rich cultural exchange with colleagues from GAO and the fellows. 
 
