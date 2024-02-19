@@ -19,4 +19,4 @@ At the Final Round of the Data Challenge for Accountancy undergraduates held on 
 The 2021 Data Challenge concluded on 30 Oct 2021.
 
 ![](/images/News%20&%20Events%20Photos/2021/datachallenge2021prize.jpg)
-*AG presented the winning teams with prizes at the end of the Challenge*
+*Auditor-General Goh Soon Poh presented the winning teams with prizes at the end of the Challenge*
