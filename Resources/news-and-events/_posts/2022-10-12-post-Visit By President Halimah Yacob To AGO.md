@@ -17,7 +17,7 @@ Following the presentations, Madam President viewed an exhibition of AGO’s her
 Madam President also interacted with our newly confirmed AGO officers.
 
 ![](/images/Visitors/President2.jpg)
- *AG and retired DAG Mr Teo Chee Khiang going through AGO’s heritage materials with Madam President.*
+ *Auditor-General Goh Soon Poh and retired DAG Mr Teo Chee Khiang going through AGO’s heritage materials with Madam President.*
 
 
 
