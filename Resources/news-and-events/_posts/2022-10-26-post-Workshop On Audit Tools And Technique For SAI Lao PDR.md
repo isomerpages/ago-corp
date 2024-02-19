@@ -15,7 +15,7 @@ During the workshop, AGO officials shared on multiple topics – an overview of 
 
 On the last day, Auditor-General (AG) Goh Soon Poh chaired a panel discussion, during which participants asked questions on various topics such as the process of reporting AGO’s observations to Parliament and how AGO follows up on its observations. 
 
-The workshop concluded with a closing ceremony during which AG, Lao SAO President, His Excellency Mr Viengthavisone Thephachanh and a class representative gave closing remarks. The participants also received certificates of participation from Ambassador Leow.
+The workshop concluded with a closing ceremony during which AG, Lao SAO President, His Excellency Mr Viengthavisone Thephachanh  made closing remarks. The participants also received certificates of participation from Ambassador Leow.
 
 ![](/images/News%20&%20Events%20Photos/2022/AG%20and%20Hee%20Kim%20at%20dialogue%20with%20Laos%20PDR.jpg)
 *Group picture at the closing ceremony*
