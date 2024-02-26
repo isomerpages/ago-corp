@@ -19,3 +19,6 @@ The delegation then visited the National Audit Academy (NAA) in Nilai, Negeri Se
 
 ![](/images/News%20&%20Events%20Photos/2023/klvisit2023-2.jpg)
 *The delegation was given a tour of NAD’s Gallery, which showcases the SAI’s history*
+
+![](/images/News%20&%20Events%20Photos/2023/KLvisit2023_3.jpg)
+*AG presented the Malaysian AG with a copy of the latest annual Report of the Auditor-General at the end of her visit to the National Audit Department*
