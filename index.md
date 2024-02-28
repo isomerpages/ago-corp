@@ -40,5 +40,5 @@ sections:
       image: /images/Home/upskilling.jpg
       alt: Upskilling with AGO Academy
   - resources:
-      title: Newshub
+      title: LATEST NEWS & EVENTS
 ---
