@@ -4,22 +4,54 @@ permalink: /ago-academy/foundation-course/
 description: ""
 variant: tiptap
 ---
-### Foundation Course
-
-
-<img src="/images/website_fc.jpg" style="width:500px;">
-
-AGO Academy conducts Foundation Course for new AGO officers on an annual basis to equip them with the competencies to perform public sector audits. The courses include: 
-* Public Service Code of Conduct 
-* Public Accountability
-* Quality Assurance Framework
-* Government Audits
-* Audit of Financial Statements (Government)
-* Audit of Financial Statements (Statutory Board)
-* Procurement Audit
-* Fraud Awareness
-* IT Audit
-* Audit Command Language (ACL) Basics
-* Use of Excel for Auditing
-
-AGO Academy extends invitations to other public agencies to participate in selected Foundation Course modules. This is aligned to AGO's mission of enhancing public accountability and helping to strengthen the financial governance of the public sector.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGO_Academy/foundation_course.png">
+</div>
+<p></p>
+<blockquote>
+<h4><strong>AGO Academy conducts Foundation Course for new AGO officers on an annual basis.</strong></h4>
+</blockquote>
+<p>The modules taught include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Service Code of Conduct</p>
+</li>
+<li>
+<p>Public Accountability</p>
+</li>
+<li>
+<p>Quality Assurance Framework</p>
+</li>
+<li>
+<p>Government Audits</p>
+</li>
+<li>
+<p>Audit of Financial Statements (Government)</p>
+</li>
+<li>
+<p>Audit of Financial Statements (Statutory Board)</p>
+</li>
+<li>
+<p>Procurement Audit</p>
+</li>
+<li>
+<p>Financial Forensics</p>
+</li>
+<li>
+<p>Fraud Awareness</p>
+</li>
+<li>
+<p>IT Audit</p>
+</li>
+<li>
+<p>Audit Command Language (ACL) Basics</p>
+</li>
+</ul>
+<blockquote>
+<p>AGO Academy extends invitations to other public agencies to participate
+in selected Foundation Course modules. This is aligned to AGO's mission
+of enhancing public accountability and helping to strengthen the financial
+governance of the public sector.</p>
+</blockquote>
+<p></p>
+<p></p>
