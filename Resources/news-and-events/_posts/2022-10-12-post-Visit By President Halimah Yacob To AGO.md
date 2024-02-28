@@ -19,8 +19,6 @@ Madam President also interacted with our newly confirmed AGO officers.
 ![](/images/Visitors/President2.jpg)
  *Auditor-General Goh Soon Poh and retired DAG Mr Teo Chee Khiang going through AGO’s heritage materials with Madam President.*
 
-
-
 ![](/images/Visitors/President3.jpg)
 *Retired AGs Mr Lim Soo Ping and Mr Willie Tan and retired DAG Mr Teo Chee Khiang also joined us for the event.* 
  
