@@ -29,8 +29,6 @@ sections:
       url: /annualreports
       image: /images/ar fy2223 cover.jpg
       alt: AnnualReport
-  - resources:
-      title: Newshub
   - infopic:
       title: Audit Quality & Code of Ethics
       id: infopic
@@ -52,4 +50,6 @@ sections:
       url: /ago-academy/academy/
       image: /images/Home/upskilling.jpg
       alt: Upskilling with AGO Academy
+  - resources:
+      title: Newshub
 ---
