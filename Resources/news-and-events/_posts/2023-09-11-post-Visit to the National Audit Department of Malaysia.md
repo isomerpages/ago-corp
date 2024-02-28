@@ -13,12 +13,11 @@ The day trip began with a knowledge-sharing session in the morning, held at NAD'
 
 The delegation then visited the National Audit Academy (NAA) in Nilai, Negeri Sembilan in the afternoon. AG paid a courtesy call on the Malaysian Auditor-General, Datuk Wan Suraya Wan Mohd Radzi. This was followed by a session where the two SAIs shared about staff training. The delegation was then given a tour of the NAA campus.
 
-![](/images/News%20&%20Events%20Photos/2023/klvisit2023-1.jpg)
+![](/images/News_Events_Photos/2023/klvisit2023_1.jpg)
 *Group photo of AGO delegation with NAD representatives at NAD’s headquarters in Putrajaya*
 
-
-![](/images/News%20&%20Events%20Photos/2023/klvisit2023-2.jpg)
+![](/images/News_Events_Photos/2023/klvisit2023_2.jpg)
 *The delegation was given a tour of NAD’s Gallery, which showcases the SAI’s history*
 
-![](/images/News%20&%20Events%20Photos/2023/KLvisit2023_3.jpg)
-*AG presented the Malaysian AG with a copy of the latest annual Report of the Auditor-General at the end of her visit to the National Audit Department*
+![](/images/News_Events_Photos/2023/klvisit2023_3.jpg)
+*AG presented the Malaysian AG with an artwork of Singapore’s national flowers in appreciation of the SAI’s warm hospitality*
