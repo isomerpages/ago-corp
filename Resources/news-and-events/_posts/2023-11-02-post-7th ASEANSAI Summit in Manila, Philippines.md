@@ -13,12 +13,12 @@ The meeting on 2 November 2023 began with the Chairperson of the Commission on A
 
 During the meeting, the incumbent ASEANSAI Vice Chair for the term 2021 to 2023, SAI Philippines, assumed the ASEANSAI Chair role for the term from 2023 to 2025, while AGO took over from SAI Philippines as ASEANSAI Vice Chair. ASEANSAI members also approved the 4th Revision of ASEANSAI Rules and Procedures, the report on Cooperative Research SAI Independence in ASEAN Countries, and the report on the Fundamental Audit Guidelines on Construction Projects. 
 
-![](/images/News%20&%20Events%20Photos/2023/7thaseansai-1.jpg)
+![](/images/News_Events_Photos/2023/7thaseansai_1.jpg)
 *Heads of Delegation from all 10 ASEANSAI members*
 
-![](/images/News%20&%20Events%20Photos/2023/7thaseansai-3.jpg)
+![](/images/News_Events_Photos/2023/7thaseansai_3.jpg)
 *AG indicating SAI Singapore's approval for one of the agenda items*
 
 
-![](/images/News%20&%20Events%20Photos/2023/7thaseansai-7.jpg)
-*As the chairperson of the Rules and Procedures Committee for 2024 to 2025, AG updated the meeting on the Committee’s work plan *
+![](/images/News_Events_Photos/2023/7thaseansai_7.jpg)
+*As the chairperson of the Rules and Procedures Committee for 2024 to 2025, AG updated the meeting on the Committee’s work plan*
