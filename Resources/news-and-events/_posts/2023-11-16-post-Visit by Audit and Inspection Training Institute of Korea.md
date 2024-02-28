@@ -13,14 +13,11 @@ Deputy Auditor-General Rina Chua warmly welcomed the delegation. This was follow
 
 The AITI delegation then shared on the role of the AITI and the training conducted for Board of Inspection and Audit (BAI)'s auditors.
 
-
-
-![](/images/News%20&%20Events%20Photos/2023/BAI_AITI_1.jpg)
+![](/images/News_Events_Photos/2023/BAI_AITI_1.jpg)
 *Group photo of AITI delegates with AGO representatives*
 
-
-![](/images/News%20&%20Events%20Photos/2023/BAI_AITI_2.jpg)
+![](/images/News_Events_Photos/2023/BAI_AITI_2.jpg)
 *Mr Kim Soonsik shared with AGO representatives on AITI's role*
 
-![](/images/News%20&%20Events%20Photos/2023/BAI_AITI_4.jpg)
+![](/images/News_Events_Photos/2023/BAI_AITI_4.jpg)
 *AITI delegates viewing exhibits at AGO's Heritage Corner*
