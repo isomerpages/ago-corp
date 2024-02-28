@@ -7,17 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HeroBannerLogo.png
+      background: /images/Home/home.jpg
       key_highlights:
-        - title: Audits
+        - title: Who We Are
           description: ""
-          url: /ouraudits/
-        - title: Publications
+          url: /overview
+        - title: Annual Report
           description: ""
-          url: /annualreports/
-        - title: Careers
+          url: /publications/annual-reports/
+        - title: Career Opportunities
           description: ""
           url: /careers/career-opportunities/
+      variant: image
   - infobar:
       title: Who We Are
       description: AGO is an independent organ of state and the national auditor.
