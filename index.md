@@ -32,7 +32,6 @@ sections:
       alt: Audit Quality & Code of Ethics
   - infopic:
       title: Upskilling with AGO Academy
-      subtitle: Add an image and text
       id: infopic
       description: AGO Academy is the professional training arm of the
         Auditor-General’s Office (AGO)
