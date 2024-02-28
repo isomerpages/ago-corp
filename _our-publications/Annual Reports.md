@@ -4,24 +4,211 @@ permalink: /publications/annual-reports/
 description: ""
 variant: tiptap
 ---
-![](/images/officers-reading-ar.jpg)
-
-The Report of the Auditor-General for the Financial Year 2022/23 was presented to President on 4 July 2023 and tabled in Parliament on 18 July 2023.
-
-Click to download the latest [Report](/files/ARs/ar_fy2022-23.pdf).
-
-Past Reports of the Auditor-General for the Financial Year: 
-* [2021/22](/files/ARs/AR_FY2021-22.pdf)
-* [2020/21](/files/ARs/AR_FY2020-21.pdf)
-* [2019/20](/files/ARs/AR_FY2019-20.pdf)
-* [2018/19](/files/ARs/AR_FY2018-19.pdf)
-* [2017/18](/files/ARs/AR_FY2017-18.pdf)
-* [2016/17](/files/ARs/AR_FY2016-17.pdf)
-* [2015/16](/files/ARs/ar_fy2015-16.pdf)
-* [2014/15](/files/ARs/ar_fy2014-15.pdf)
-* [2013/14](/files/ARs/ar_fy2013-14.pdf)
-* [2012/13](/files/ARs/ar_fy2012-13.pdf)
-* [2011/12](/files/ARs/ar_fy2011-12.pdf)
-* [2010/11](/files/ARs/ar_fy2010-11.pdf)
-* [2009/10](/files/ARs/ar_fy2009-10.pdf)
-* [2008/09](/files/ARs/ar_fy2008-09.pdf)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publications/lowres2Z0A6906_800x400.jpg">
+</div>
+<p></p>
+<blockquote>
+<h4><strong>The Report of the Auditor-General is typically presented in early July each year and subsequently tabled in Parliament later</strong></h4>
+</blockquote>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Download</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Download</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022/23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2022_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2022_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021/22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2021_22.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2021_22.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020/21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2020_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2020_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019/20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2019_20.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2019_20.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018/19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2018_19.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017/18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2017_18.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016/17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2016_17.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015/16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2015_16.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014/15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2014_15.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013/14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2013_14.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012/13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2012_13.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2011/12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2011_12.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2010/11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2010_11.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2009/10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2009_10.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2008/09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2008_09.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
