@@ -10,4 +10,4 @@ variant: markdown
 ---
 AGO participated in the PSC Early Provisional Scholarships Information Session at Lifelong Learning Institute on 4 June 2022. It was an engaging session for both our AGO ambassadors and the students as we shared with them more about PSC Scholarships, AGO Auditing Service Scholarship, and what a career in AGO would entail. 
 
-![](/images/News%20&%20Events%20Photos/2022/PSCInfoSession2022.jpg)
+![](/images/News_Events_Photos/2022/PSCInfoSession2022.jpg)
