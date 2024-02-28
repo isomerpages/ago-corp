@@ -2,13 +2,13 @@ collections:
   careers:
     output: true
     order:
-      - Hear from Our People.md
       - Career Opportunities.md
       - Experienced Professionals.md
       - Training and Development/.keep
       - Training and Development/Accredited Training Organisation (ATO).md
       - Training and Development/Career Development.md
       - Training and Development/Staff Benefits and Welfare Activities.md
+      - Hear from Our People.md
       - Hear From Our People/.keep
       - Hear From Our People/Our People.md
       - Life As An AGO Auditor.md
