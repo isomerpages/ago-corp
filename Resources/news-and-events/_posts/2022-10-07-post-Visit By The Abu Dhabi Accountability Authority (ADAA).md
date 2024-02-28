@@ -9,7 +9,6 @@ variant: markdown
 ---
 ![](/images/Visitors/ADAA2022.jpg)
 *ADAA delegates with AGO representatives.*
- 
 
 On 7 October 2022, the Acting Executive Director (Audit Sector) of the Abu Dhabi Accountability Authority (ADAA), Mr Wael Abdul Qader, visited AGO. He was accompanied by Mr Mahmoud Al Alawi, Chairman’s Advisor; Mr Ahmed Al Hammadi, Section Head Legal Consulting; Mr Mohammed Al Ketbi, Integrity and Anti-Corruption Sector, and Mrs Hasina Al Adawi, Principal Auditor. 
 
