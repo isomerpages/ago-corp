@@ -41,5 +41,15 @@ sections:
       button: READ MORE
       url: /our-audits/audit-quality-code-of-ethnics/
       image: /images/Home/2Z0A6945.jpg
-      alt: Image alt text
+      alt: Audit Quality & Code of Ethics
+  - infopic:
+      title: Upskilling with AGO Academy
+      subtitle: Add an image and text
+      id: infopic
+      description: AGO Academy is the professional training arm of the
+        Auditor-General’s Office (AGO)
+      button: FIND OUT MORE
+      url: /ago-academy/academy/
+      image: /images/Home/upskilling.jpg
+      alt: Upskilling with AGO Academy
 ---
