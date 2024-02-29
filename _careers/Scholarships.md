@@ -175,5 +175,5 @@ studies.</p>
 </tbody>
 </table>
 <h5><strong>Click <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out more information on PSC Scholarship (Public Finance).</strong></h5>
-<h5><strong>Apply for these scholarships</strong> <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply" rel="noopener noreferrer nofollow" target="_blank">here</a></h5>
+<h5><strong>Apply for these scholarships</strong> <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply" rel="noopener noreferrer nofollow" target="_blank">here.</a></h5>
 <p></p>
