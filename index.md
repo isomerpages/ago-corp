@@ -7,28 +7,38 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HeroBannerLogo.png
+      background: /images/Home/home.jpg
       key_highlights:
-        - title: Audits
+        - title: Who We Are
           description: ""
-          url: /ouraudits/
-        - title: Publications
+          url: /who-we-are/overview/
+        - title: Annual Report
           description: ""
-          url: /annualreports/
-        - title: Careers
+          url: /publications/annual-reports/
+        - title: Career Opportunities
           description: ""
           url: /careers/career-opportunities/
-  - infobar:
-      title: Who We Are
-      description: AGO is an independent organ of state and the national auditor.
-      button: Find out more
-      url: /who-we-are/overview/
+      variant: image
   - infopic:
-      title: Annual Report of the Auditor General
-      button: Read the latest report
-      url: /annualreports
-      image: /images/ar fy2223 cover.jpg
-      alt: AnnualReport
+      title: Audit Quality & Code of Ethics
+      id: infopic
+      description: |-
+        To ensure quality in our audits, 
+        AGO has implemented a Quality 
+        Assurance Framework (QAF)
+      button: READ MORE
+      url: /our-audits/audit-quality-code-of-ethnics/
+      image: /images/Home/2Z0A6945.jpg
+      alt: Audit Quality & Code of Ethics
+  - infopic:
+      title: Upskilling with AGO Academy
+      id: infopic
+      description: AGO Academy is the professional training arm of the
+        Auditor-General’s Office (AGO)
+      button: FIND OUT MORE
+      url: /ago-academy/academy/
+      image: /images/Home/upskilling.jpg
+      alt: Upskilling with AGO Academy
   - resources:
-      title: Newshub
+      title: LATEST NEWS & EVENTS
 ---

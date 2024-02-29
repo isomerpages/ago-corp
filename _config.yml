@@ -1,20 +1,20 @@
 title: Auditor-General's Office
 url: https://www.ago.gov.sg
-favicon: /images/LogoFavicon.png
+favicon: /images/logofavicon.png
 colors:
-  primary-color: "#080cbd"
-  secondary-color: "#0941b5"
+  primary-color: "#003366"
+  secondary-color: "#003366"
   media-colors:
     - title: media-color-one
-      color: "#0e1984"
+      color: "#8d99ae"
     - title: media-color-two
-      color: "#2241ee"
+      color: "#5795de"
     - title: media-color-three
-      color: "#1418e2"
+      color: "#00726b"
     - title: media-color-four
-      color: "#1913ca"
+      color: "#9b8579"
     - title: media-color-five
-      color: "#2033b1"
+      color: "#0a3668"
 resources_name: Resources
 description: Auditor-General's Office
 permalink: none
@@ -57,3 +57,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

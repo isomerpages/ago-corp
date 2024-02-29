@@ -1,7 +1,0 @@
-collections:
-  our-publications:
-    output: true
-    order:
-      - Annual Reports.md
-      - Annual Report Infographics.md
-      - Other Publications.md

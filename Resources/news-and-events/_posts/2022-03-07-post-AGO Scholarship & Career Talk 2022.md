@@ -5,8 +5,12 @@ date: 2022-03-07
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
+On 9 and 10 Febraury 2022, AGO conducted a AGO Scholarship and Career Talk for students from various universities, polytechnics and junior colleges. 
 
-AGO organised the AGO Scholarship and Career Talk on 9 and 10 February 2022. We were glad to host the students from various universities, JCs and Polytechnics. Through the sharing by AGO’s officers, which includes the role and work of AGO and a Q&A segment with AGO’s senior management, the students acquired a more in-depth understanding about AGO, and the role we play in enhancing accountability in the public sector. 
+The topics shared included AGO's work and the importance of its role in enhancing accountability in the public sector. 
+
+
 
 ![](/images/News%20&%20Events%20Photos/2022/Scholarship_Career_Tak2022.jpg)

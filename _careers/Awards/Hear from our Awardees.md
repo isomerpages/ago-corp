@@ -1,47 +1,72 @@
 ---
 title: Hear from our Awardees
-permalink: /careers/hearfromourawardees/
+permalink: /careers/awards/hear-from-our-awardees/
 description: ""
 third_nav_title: Awards
-variant: markdown
+variant: tiptap
 ---
-### Recipients Of National Day Award
---------------------------------
-![](/images/stevenchoy.jpg) 
-**Mr Choy Hong Yeen Steven, Deputy Director** **(Recipient of the 2021 NDA Commendation Medal)**
-
-Steven has been with AGO for 28 years. In his career in AGO thus far, he had been rotated to various groups such as SB1, Group 4 and 5, and was involved in the audits of Economic Development Board, National Research Foundation, National Council of Social Services and Ministry of Culture, Community and Youth. In addition, he also heads the Internal Audit Unit for AGO and oversees the internal audits on the corporate functions. 
-
-The Commendation Medal was awarded to Steven in recognition of his commendable performance and devotion to his duties.
-
-Let’s hear from him on his thoughts on receiving the NDA below.  
-
-**1  What does receiving the award mean for you?**  
-I feel honoured and humbled by this award. It does feel good and heartening that my 28 years of service have been recognised. 
-
-**2  What is your most memorable contribution to the public service?**  
-If Draft Paragraphs (DPs) reported in the Annual Report (AR) is considered a contribution to public service, then my most memorable one would be my first Selective Audit (SA) project in 2008 when AGO first started SA (was known as Performance Audit then). The DP published in the FY2008/09 AR was exceptionally long (8 full pages) and the Final Management Letters with more than 100 pages was bind into a book before issuing to the agency. This was quite an accomplishment as we were all new to SA at that time. This could not have been achieved without a strong and cohesive team and the commitment by each member of the team.
-
-**3  Being a recipient of the award, how would you inspire others?**  
-I am not good at words. Perhaps from my actions of rolling up sleeves (literally!) and getting the job done, it may inspire others.
-
-==============================================================
-
-![](/images/rina%20photo.jpg)
-**Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG)**
-**[Recipient of the 2019 NDA Public Administration Medal (Silver)]**
-
-Being an auditor and serving the nation for 34 years, Rina started out as an Audit Officer with SND group. She was subsequently rotated to other groups such as SB5 and SB1, and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance. 
-
-The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.
-
-Let’s hear from her on her thoughts on receiving the NDA below. 
-
-**1  What were your thoughts when you heard that you would be receiving this award?**  
-My first thought is to thank Team AGO - without everyone’s support the award would not have been possible. I am also happy and honoured as the award is a form of recognition of the important work we do at AGO.
-
-**2  What do you enjoy about working in AGO? What keeps you motivated at work?**  
-In the course of our audit, we get to see and understand the processes involved in the wide variety of work performed by different Government agencies. This keeps the job interesting as there is always something new we learn in every audit assignment. This, coupled with the meaningful work AGO does in enhancing public accountability and helping to strengthen financial governance, has kept me motivated all these years.
-
-**3  What advice would you give the newly joined officers?**  
-I think my advice would apply to all officers – firstly, the importance of taking ownership for one’s work and not pushing the responsibility to someone else when things did not work out. To me taking ownership for any problems or issues would spur one to find a solution to the problem or issue. Secondly, the importance of keeping an open mind and constantly looking at ways to improve the way things are being done. And finally, it is fine to make mistakes but more importantly one must own up to and learn from the mistakes.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/Rina_800x400.jpg">
+</div>
+<p><em>Mdm Chua Pheck Kiang Rina, Deputy Auditor-General (DAG) </em>
+<br><em>Recipient of the 2019 NDA Public Administration Medal (Silver)</em>
+</p>
+<p></p>
+<blockquote>
+<h4><strong>Being an auditor and serving the nation for 29 years, Rina started out as an Audit Officer. She was rotated to various audit groups and was involved in the audits of GIC, Ministry of National Development and Ministry of Finance.</strong></h4>
+<p></p>
+<h4><strong>The Public Administration Medal (Silver) was awarded to Rina in recognition of her contributions to the audit work of AGO.</strong></h4>
+</blockquote>
+<h4></h4>
+<p>Let’s hear from her on her thoughts on receiving the NDA below.</p>
+<p><strong>What were your thoughts when you heard that you would be receiving this award?</strong> 
+<br>My first thought is to thank Team AGO - without everyone’s support the
+award would not have been possible. I am also happy and honoured as the
+award is a form of recognition of the important work we do at AGO.</p>
+<p><strong>What do you enjoy about working in AGO? What keeps you motivated at work?</strong> 
+<br>In the course of our audit, we get to see and understand the processes
+involved in the wide variety of work performed by different Government
+agencies. This keeps the job interesting as there is always something new
+we learn in every audit assignment. This, coupled with the meaningful work
+AGO does in enhancing public accountability and helping to strengthen financial
+governance, has kept me motivated all these years.</p>
+<p><strong>What advice would you give the newly joined officers?</strong> 
+<br>I think my advice would apply to all officers – firstly, the importance
+of taking ownership for one’s work and not pushing the responsibility to
+someone else when things did not work out. To me taking ownership for any
+problems or issues would spur one to find a solution to the problem or
+issue. Secondly, the importance of keeping an open mind and constantly
+looking at ways to improve the way things are being done. And finally,
+it is fine to make mistakes but more importantly one must own up to and
+learn from the mistakes.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/fei_lin_800x400.jpg">
+</div>
+<p>Teng Fei Lin, Deputy Director
+<br><em>Recipient of the 2021 National Day Award (NDA) Commendation Medal</em>
+</p>
+<blockquote>
+<p></p>
+<h4><strong>The Commendation Medal was awarded to Fei Lin in recognition of her commendable performance and devotion to her duties.</strong></h4>
+</blockquote>
+<p></p>
+<p>Let’s hear from her on her thoughts on receiving the NDA.</p>
+<p><strong>What does receiving the award mean for you?</strong> 
+<br>I am honoured to be awarded with the National Day Commendation Medal.&nbsp;
+It serves as a form of recognition for my contributions to the organisation
+over the years.</p>
+<p><strong>What is your most memorable contribution to the public service?</strong> 
+<br>I have spent a large part of my career with AGO auditing GIC. Over the
+years, the team put our heads together and worked on many initiatives to
+automate or streamline the audit processes. Some examples are automating
+checks on valuation of investments and review of user access rights to
+IT systems, using data analytical/visualization tools to gain valuable
+insights from big datasets quickly and accurately, and streamlining the
+process to generate/update audit documentation. Seeing a more efficient
+audit process and an improvement on the quality of the audit over the years
+are extremely satisfying and certainly what I see as a key part of my contribution
+to the public service. A big thank you to all who have contributed to the
+GIC audit team throughout this memorable journey.</p>
+<p><strong>Being a recipient of the award, how would you inspire others?</strong> 
+<br>Do your best and your contributions, no matter how small will be noticed.</p>
