@@ -88,7 +88,7 @@ Bachelor of Accountancy, NTU, 1999<br>
       </div>
       <div class="testimonial-content">
         <p>
-          As a member of the Digital Innovation Office (DIO) at AGO, our team focuses on data analytics and automation, streamlining audit processes and introducing innovative dimensions to audits. I was given the opportunity to pursue a full-time Master of IT in Business (Analytics) from SMU in 2020, and this equipped me to introduce advanced techniques like machine learning and graph analytics into our audit tests. The progress in data science and automation have transformed our audit approaches. I am excited about how these initiatives can enhance AGO’s role as the national auditor._
+          As a member of the Digital Innovation Office (DIO) at AGO, our team focuses on data analytics and automation, streamlining audit processes and introducing innovative dimensions to audits. I was given the opportunity to pursue a full-time Master of IT in Business (Analytics) from SMU in 2020, and this equipped me to introduce advanced techniques like machine learning and graph analytics into our audit tests. The progress in data science and automation have transformed our audit approaches. I am excited about how these initiatives can enhance AGO’s role as the national auditor.
         </p>
         <strong>KHOO WEN YONG</strong><br>
 Senior Assistant Director<br>
