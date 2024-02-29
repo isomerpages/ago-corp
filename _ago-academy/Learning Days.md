@@ -17,5 +17,5 @@ cybersecurity initiatives and financial governance.</p>
 <p>The Academy also organises regular Lunch &amp; Learn sessions during which
 industry experts and AGO officers speak on emerging areas such as the applications
 of artificial intelligence and machine learning in AGO, fraud and forensics,
-and Environment Social and Governance (ESG) reporting.</p>
+and Environment, Social and Governance (ESG) reporting.</p>
 <p></p>
