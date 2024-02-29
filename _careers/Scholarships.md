@@ -159,9 +159,7 @@ The scholarship will cover tuition and other compulsory fees, maintenance allowa
 **Duration of Bond**
 
 AGO scholars are required to serve a four-year bond.
-
 <h5><strong>Click <a href="https://www.scholarschoice.com.sg/experience/ago-auditing-service-scholarship-strengthen-financial-governance" rel="noopener noreferrer nofollow" target="_blank">here</a>  to find out what it is like to be an AGO Scholar</strong></h5>
-
 
 <h3><strong>Public Service Commission Scholarship (Public Finance)</strong></h3>
 <p>The PSC Scholarship (Public Finance) aims to develop individuals trained
