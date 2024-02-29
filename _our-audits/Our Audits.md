@@ -10,6 +10,7 @@ variant: tiptap
 <p><em>Audit site visit</em>
 </p>
 <h4><strong>AGO carries out the following audits:</strong></h4>
+<p></p>
 <table>
 <tbody>
 <tr>
