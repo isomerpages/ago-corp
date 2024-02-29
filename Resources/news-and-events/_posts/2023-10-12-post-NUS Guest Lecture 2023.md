@@ -11,6 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AD John Tay sharing on the background of AGO's audits and how the process is streamlined." src="/images/News_Events_Photos/2024/NUS.jpg">
 </div>
+<p></p>
 <p>As part of AGO's outreach efforts, AGO conducts guest lectures at NUS
 for Accountancy undergraduates. For the most recent session in Oct 2023,
 Deputy Auditor-General Rina spoke about AGO’s work and shared interesting
