@@ -21,3 +21,9 @@ process automation, which was met with enthusiastic response. The students
 took the opportunity to find out more about life as an AGO auditor, other
 career-related information (e.g., work culture, progression) and also enquired
 on current job opportunities in AGO.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2024/NUS2.jpg">
+</div>
+<p></p>
