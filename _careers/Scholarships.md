@@ -98,7 +98,7 @@ allowance, hostel allowance and pre-studies allowance.</p>
 <p><strong>Duration of Bond</strong>
 </p>
 <p>AGO scholars are required to serve a four-year bond.</p>
-<h5><strong>Click <a href="https://www.scholarschoice.com.sg/experience/auditor-generals-office-young-auditor-leverages-ai-to-keep-public-purse-in-check/" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out what it is like to be an AGO Scholar</strong></h5>
+<h5><strong>Click <a href="https://www.scholarschoice.com.sg/experience/auditor-generals-office-young-auditor-leverages-ai-to-keep-public-purse-in-check/" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out what it is like to be an AGO Scholar.</strong></h5>
 <h3><strong>Public Service Commission Scholarship (Public Finance)</strong></h3>
 <p>The PSC Scholarship (Public Finance) aims to develop individuals trained
 in Accountancy for finance leadership positions in the Public Service.
