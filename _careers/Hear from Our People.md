@@ -57,7 +57,7 @@ width: 30%;
       </div>
       <div class="testimonial-content">
         <p>
-I was given the opportunity pursue a Master’s in Public Administration programme with the Lee Kuan Yew School of Public Policy.&nbsp; The academic work and interactions with participants from various agencies and countries was an eye-opener for me and helped me further appreciate the public sector and policies beyond what I learnt from audit work.&nbsp; I also work with experienced public accountants from the public and private sectors as a member of ACRA’s Practice Monitoring Sub Committee. Such engagements promote audit quality and enhance my understanding of auditing standards and procedures. The learning journey at AGO never ends and I look forward to the next bound ahead.
+I was given the opportunity to pursue a Master’s in Public Administration programme with the Lee Kuan Yew School of Public Policy.&nbsp; The academic work and interactions with participants from various agencies and countries was an eye-opener for me and helped me further appreciate the public sector and policies beyond what I learnt from audit work.&nbsp; I also work with experienced public accountants from the public and private sectors as a member of ACRA’s Practice Monitoring Sub Committee. Such engagements promote audit quality and enhance my understanding of auditing standards and procedures. The learning journey at AGO never ends and I look forward to the next bound ahead.
         </p>
         <strong>CHRISTOPHER TANG CHUAN LEE</strong><br>
 				Acting Group Director<br>
