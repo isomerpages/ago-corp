@@ -44,7 +44,7 @@ learn from the mistakes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/fei_lin_800x400.jpg">
 </div>
 <p>Teng Fei Lin, Deputy Director
-<br><em>Recipient of the 2021 National Day Award (NDA) Commendation Medal</em>
+<br><em>Recipient of the 2023 National Day Award (NDA) Commendation Medal</em>
 </p>
 <blockquote>
 <p></p>

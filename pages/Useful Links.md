@@ -33,10 +33,6 @@ variant: tiptap
 <p>OTHER WEBSITES</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.asc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Accounting Standards Council</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.assb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Accounting Standards for Statutory Boards</a>
 </p>
 </li>
