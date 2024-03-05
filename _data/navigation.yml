@@ -1,0 +1,16 @@
+logo: /images/logo_AGO.png
+links:
+  - title: Who we are
+    collection: who-we-are
+  - title: Our Audits
+    collection: our-audits
+  - title: Publications
+    collection: publications
+  - title: Careers
+    collection: careers
+  - title: AGO Academy
+    collection: ago-academy
+  - title: Newshub
+    resource_room: true
+  - title: Useful Links
+    url: /useful-links/

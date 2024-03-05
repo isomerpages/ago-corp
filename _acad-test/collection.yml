@@ -1,0 +1,5 @@
+collections:
+  acad-test:
+    output: true
+    order:
+      - Academy Foundation Course.md

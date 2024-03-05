@@ -1,0 +1,8 @@
+collections:
+  hr-test:
+    output: true
+    order:
+      - Hr Test Subfolder/Page within Folder.md
+      - Hr Test Subfolder/.keep
+      - HR (Test).md
+      - Scholarship Test.md
