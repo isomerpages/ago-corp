@@ -12,7 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2024/SAI_Oman_2024_visit.jpg">
 </div>
-<p></p>
+<p><em>Group photo of SAI Oman delegation with AGO representatives</em>
+</p>
 <p></p>
 <p>On 10 January 2024, His Excellency Sheikh Ghusan bin Hilal Al Alwai, Chairman
 of State of Audit &amp; Administrative Institution of Sultanate Oman (SAI
