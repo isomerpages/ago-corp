@@ -5,7 +5,7 @@ date: 2023-11-16
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 16 November 2023, the President of the Audit and Inspection Training Institute (AITI) of the Republic of Korea, Mr Kim Soonsik, visited AGO. He was accompanied Mr Park Jung Chul (Director, Bureau of Training Management), Mr Park Joosuk (AITI Professor), and Ms Song Eun Ju (Editor/Translator) from the AITI.
 

@@ -5,7 +5,7 @@ date: 2023-11-02
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 2 November 2023, Auditor-General Goh Soon Poh led an AGO delegation to Manila to attend the 7th ASEANSAI Summit hosted by the Commission on Audit of the Republic of Philippines (SAI Philippines). 
 

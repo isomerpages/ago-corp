@@ -5,7 +5,7 @@ date: 2023-11-22
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 22 November 2023, Mr Hazem Saad Al Qethami, Executive Deputy for Planning and Development from the General Court of Audit of the Kingdom of Saudi Arabia (SAI Saudi Arabia) visited AGO. 
 

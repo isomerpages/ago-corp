@@ -5,7 +5,7 @@ date: 2022-09-07
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/BAItoAGO2022.jpg)
 *BAI delegates with AGO representatives*

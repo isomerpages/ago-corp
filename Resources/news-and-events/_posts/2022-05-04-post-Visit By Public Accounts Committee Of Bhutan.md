@@ -5,7 +5,7 @@ date: 2022-05-04
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/BhutanPACvisit2022.jpg)
 *Group photograph of the Bhutanese PAC delegates with AGO officials.*

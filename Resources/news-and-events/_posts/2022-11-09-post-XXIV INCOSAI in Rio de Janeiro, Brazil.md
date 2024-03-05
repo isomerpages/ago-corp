@@ -5,7 +5,7 @@ date: 2022-11-09
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 Auditor-General Goh Soon Poh led an AGO delegation to attend the 24th (XXIV) International Congress of Supreme Audit Institutions (INCOSAI) held in Rio de Janeiro, Brazil, from 9 to 11 November 2022.  The triennial Congress was hosted and chaired by the Federal Court of Accounts of Brazil, which will assume chairmanship of the International Organisation of the Supreme Audit Institutions (INTOSAI) for three years, from 2022 to 2025.  
  

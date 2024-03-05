@@ -5,7 +5,7 @@ date: 2023-07-07
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/News_Events_Photos/2023/savjul2023_1.jpg)
 *Group photo of the SAV delegates with AGO representatives*

@@ -5,7 +5,7 @@ date: 2019-09-06
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/CNAO_2019.jpg)
 *Group photograph of CNAO officials and GRD Lim Juay Hiang.*

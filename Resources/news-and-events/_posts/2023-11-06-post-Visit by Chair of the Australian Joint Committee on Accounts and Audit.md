@@ -5,7 +5,7 @@ date: 2023-11-06
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 6 November 2023, Auditor-General Goh Soon Poh met with the Chair of the Australian Joint Committee on Accounts and Audit, Mr Julian Hill. 
 

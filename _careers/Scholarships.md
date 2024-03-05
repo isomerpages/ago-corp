@@ -2,73 +2,8 @@
 title: Scholarships
 permalink: /careers/scholarships/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style>
-
-.page_highlight {
-
-font-size: 1.375rem;
-
-color:#036;
-
-margin-top:0;
-
-background: none;
-
-border-left: 2px solid #6b4370;
-
-padding: 0 0 0 2rem;
-
-}
-
-
-.scholarship-table {
-
-width: 100%;
-
-border-collapse: collapse;
-
-background: #fff;
-
-}
-
-  
-
-.scholarship-table th,
-
-.scholarship-table td {
-
-padding: 10px;
-
-border: 1px solid #eaeaea;
-
-border-width: 1px !important;
-
-vertical-align: top;
-
-}
-
-  
-
-.scholarship-table th {
-
-width: 50%;
-
-font-weight: bold;
-
-background: #00457c;
-
-color: #ffffff !important;
-
-text-transform: uppercase;
-
-text-align: left;
-
-}
-
-</style>
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers/banner_scholarship.png">
 </div>
@@ -98,18 +33,22 @@ citizenship.</p>
 Co-Curricular Activities (CCA).</p>
 </li>
 </ul>
-<table class="scholarship-table">
+<table>
 <tbody>
 <tr>
-<th>UNDERGRADUATE SCHOLARSHIP</th>
-<th>MID-TERM SCHOLARSHIP</th>
+<th rowspan="1" colspan="1">
+<p>UNDERGRADUATE SCHOLARSHIP</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MID-TERM SCHOLARSHIP</p>
+</th>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Good GCE “A” level results (with a minimum of 10 academic units), International
 Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent.</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Open to outstanding undergraduates currently pursuing an Accountancy degree
 at the local universities listed below and have completed at least one
 semester of undergraduate studies. Applicants should be on track for at
@@ -154,13 +93,12 @@ Additional allowances will be covered in accordance with our scholarship
 policy.</p>
 <p><strong>Value of Award</strong>
 </p>
-The scholarship will cover tuition and other compulsory fees, maintenance allowance, hostel allowance and pre-studies allowance.
-
-**Duration of Bond**
-
-AGO scholars are required to serve a four-year bond.
-<h5><strong>Click <a href="https://www.scholarschoice.com.sg/experience/ago-auditing-service-scholarship-strengthen-financial-governance" rel="noopener noreferrer nofollow" target="_blank">here</a>  to find out what it is like to be an AGO Scholar</strong></h5>
-
+<p>The scholarship will cover tuition and other compulsory fees, maintenance
+allowance, hostel allowance and pre-studies allowance.</p>
+<p><strong>Duration of Bond</strong>
+</p>
+<p>AGO scholars are required to serve a four-year bond.</p>
+<h5><strong>Click <a href="https://www.scholarschoice.com.sg/experience/auditor-generals-office-young-auditor-leverages-ai-to-keep-public-purse-in-check/" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out what it is like to be an AGO Scholar.</strong></h5>
 <h3><strong>Public Service Commission Scholarship (Public Finance)</strong></h3>
 <p>The PSC Scholarship (Public Finance) aims to develop individuals trained
 in Accountancy for finance leadership positions in the Public Service.
@@ -173,14 +111,18 @@ subject to meeting the emplacement criteria.</p>
 <p>Applicants for the undergraduate scholarships are welcome to apply prior
 to pursuing their undergraduate degree or up until the penultimate year
 of their undergraduate degree (referred to as ‘mid-term applicants’).</p>
-<table class="scholarship-table">
+<table>
 <tbody>
 <tr>
-<th>PSC UNDERGRADUATE SCHOLARSHIPS</th>
-<th>PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)</th>
+<th rowspan="1" colspan="1">
+<p>PSC UNDERGRADUATE SCHOLARSHIPS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PSC UNDERGRADUATE SCHOLARSHIPS (MID-TERM)</p>
+</th>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>GCE A-levels; or</p>
@@ -203,7 +145,7 @@ of their undergraduate degree (referred to as ‘mid-term applicants’).</p>
 scholarship offer may be made if you are found suitable, subject to confirmation
 upon release of final results.</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>GCE A-levels; or</p>
@@ -233,5 +175,5 @@ studies.</p>
 </tbody>
 </table>
 <h5><strong>Click <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out more information on PSC Scholarship (Public Finance).</strong></h5>
-<h5><strong>Apply for these scholarships</strong> <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply" rel="noopener noreferrer nofollow" target="_blank">here</a></h5>
+<h5><strong>Apply for these scholarships</strong> <a href="https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply" rel="noopener noreferrer nofollow" target="_blank">here.</a></h5>
 <p></p>

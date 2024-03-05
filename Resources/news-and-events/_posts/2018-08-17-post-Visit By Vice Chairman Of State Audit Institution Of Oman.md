@@ -5,7 +5,7 @@ date: 2018-08-17
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/2018_Oman.jpg)
 *Group photograph of the Omani delegates with AGO representatives.* 

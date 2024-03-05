@@ -5,7 +5,7 @@ date: 2021-07-28
 layout: post
 description: ""
 image: /images/News & Events Photos/2021/2021aseansai1.jpg
-variant: markdown
+variant: tiptap
 ---
 Deputy Auditor-General Rina Chua led an AGO delegation to attend the 6th ASEANSAI Senior Officials’ Meeting held on 28 and 29 July 2021. Due to various countries' travel restrictions in response to the COVID-19 pandemic, the meeting was conducted virtually. 
 

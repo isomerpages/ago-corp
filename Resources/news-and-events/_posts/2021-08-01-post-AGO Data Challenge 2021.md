@@ -5,7 +5,7 @@ date: 2021-08-01
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 AGO organised a Data Challenge for Accountancy undergraduates over a period of two months from August to October 2021.
 

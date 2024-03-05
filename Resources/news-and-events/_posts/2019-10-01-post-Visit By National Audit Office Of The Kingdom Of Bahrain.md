@@ -5,7 +5,7 @@ date: 2019-10-01
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/Bahrain_2019.jpg)
 *Group photograph of the Bahraini delegation with AGO officers.*

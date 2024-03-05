@@ -5,7 +5,7 @@ date: 2019-09-17
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/Seoul_Met_2019.jpg)
 *Group photograph of Seoul Metropolitan Government officials and AGO hosts.*

@@ -5,7 +5,7 @@ date: 2022-10-12
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/President1.jpg)
 *President Halimah Yacob unveiled AGO's 90th Anniversary Medallion*

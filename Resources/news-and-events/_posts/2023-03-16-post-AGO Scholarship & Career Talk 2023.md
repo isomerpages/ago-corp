@@ -5,7 +5,7 @@ date: 2023-03-16
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/News_Events_Photos/2022/Scholarship_Photo.jpg)
 *AG addressing participants at the talk* 

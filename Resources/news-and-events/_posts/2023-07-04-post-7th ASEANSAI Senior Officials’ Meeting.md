@@ -5,7 +5,7 @@ date: 2023-07-04
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 4 and 5 July 2023, Assistant Auditor-General Mabel Watt led a delegation to attend the virtual 7th ASEANSAI Senior Officials’ Meeting (SOM). 
 

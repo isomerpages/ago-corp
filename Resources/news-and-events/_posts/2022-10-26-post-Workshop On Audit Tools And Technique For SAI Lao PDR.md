@@ -5,7 +5,7 @@ date: 2022-10-26
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 From 26 to 28 October 2022, AGO hosted a virtual workshop on “Audit Technique and Tools” for the auditors from the State Audit Organization of Lao PDR (Lao SAO).
 

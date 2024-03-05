@@ -5,7 +5,7 @@ date: 2023-08-31
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 31 August 2023, the Vice President of Brazil’s Federal Court of Accounts (TCU), Minister Vital do Rego Filho, visited AGO. He was accompanied by his Chief of Staff, Ms Claudia Regina Bezerra Jordao, Minister Vital’s Chief of Staff and Mr Felipe Alexandre Gomes Sequeiros, a diplomat from Brazil’s Ministry of Foreign Affairs.
  

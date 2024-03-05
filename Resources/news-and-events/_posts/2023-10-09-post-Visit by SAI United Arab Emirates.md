@@ -5,7 +5,7 @@ date: 2023-10-09
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 9 October 2023, His Excellency Humaid Obaid Abushibs, President of SAI United Arab Emirates (UAE) visited AGO. He was accompanied by Mrs Mai Al Ameri, Director of Strategy and Excellence. 
 

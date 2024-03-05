@@ -5,7 +5,7 @@ date: 2022-10-07
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/Visitors/ADAA2022.jpg)
 *ADAA delegates with AGO representatives.*

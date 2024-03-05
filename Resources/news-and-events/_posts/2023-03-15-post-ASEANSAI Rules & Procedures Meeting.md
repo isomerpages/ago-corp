@@ -5,7 +5,7 @@ date: 2023-03-15
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 On 15 March 2023, Auditor-General Goh Soon Poh, as chair of the ASEANSAI Rules & Procedures Committee (RPC), hosted the RPC Meeting in hybrid format. 
  

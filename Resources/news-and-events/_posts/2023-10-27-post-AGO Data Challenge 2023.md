@@ -5,7 +5,7 @@ date: 2023-10-27
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 ![](/images/News_Events_Photos/2023/group_photo.jpg)
 
