@@ -28,4 +28,4 @@ Whole-of-Government.</p>
 <p>The Report is submitted to the President in early July each year.</p>
 <p><strong>4. How do I obtain or purchase a copy of the annual Report of the Auditor-General that was presented to the Parliament?</strong>
 </p>
-<p>The published reports are available for download at our <a href="https://staging-lite.d3hqyykq5b8x5i.amplifyapp.com/publications/annual-reports/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p>The published reports are available for download at our <a href="https://www.ago.gov.sg/publications/annual-reports/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
