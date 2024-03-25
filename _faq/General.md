@@ -11,7 +11,7 @@ of the Republic of Singapore and the Audit Act. In addition, the Public
 Sector (Governance) Act provides for the financial statements of most statutory
 boards to be audited by the Auditor-General or another auditor appointed
 by the Minister responsible in consultation with the Auditor-General. Click
-<a href="https://staging-lite.d3hqyykq5b8x5i.amplifyapp.com/who-we-are/audit-authority/" rel="noopener noreferrer nofollow" target="_blank">here</a>for more details on AGO's audit authority.</p>
+<a href="https://www.ago.gov.sg/who-we-are/authority/" rel="noopener noreferrer nofollow" target="_blank">here</a>for more details on AGO's audit authority.</p>
 <p><strong>2. How is the independence of the Auditor-General preserved?</strong>
 </p>
 <p>The Auditor-General is appointed by the President and not by the Government
@@ -67,5 +67,5 @@ to help maximise each AGO auditor’s potential and performance. These include
 courses on auditing techniques, financial reporting standards, auditing
 standards, audit report writing, public accountability, corporate governance,
 procurement and contracts management, and data analytics and process automation.</p>
-<p>Please refer to the <a href="https://staging-lite.d3hqyykq5b8x5i.amplifyapp.com/ago-academy/academy/" rel="noopener noreferrer nofollow" target="_blank">AGO Academy website</a> for
+<p>Please refer to the <a href="https://www.ago.gov.sg/ago-academy/academy/" rel="noopener noreferrer nofollow" target="_blank">AGO Academy website</a> for
 more information.</p>
