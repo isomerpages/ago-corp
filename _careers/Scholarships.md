@@ -33,7 +33,11 @@ citizenship.</p>
 Co-Curricular Activities (CCA).</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -89,8 +93,10 @@ to allow exposure to different aspects of audit.</p>
 </p>
 <p>We encourage our scholars to develop a broad perspective by participating
 in their respective universities' overseas Student Exchange Programme.
-Additional allowances will be covered in accordance with our scholarship
-policy.</p>
+Sponsorship will cover for programme fees, airfare, maintenance allowance
+and related expenses (e.g., visa application fees, compulsory medical fees
+etc). Additional allowances (if any) will be covered in accordance with
+our scholarship policy.</p>
 <p><strong>Value of Award</strong>
 </p>
 <p>The scholarship will cover tuition and other compulsory fees, maintenance
@@ -111,7 +117,11 @@ subject to meeting the emplacement criteria.</p>
 <p>Applicants for the undergraduate scholarships are welcome to apply prior
 to pursuing their undergraduate degree or up until the penultimate year
 of their undergraduate degree (referred to as ‘mid-term applicants’).</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
