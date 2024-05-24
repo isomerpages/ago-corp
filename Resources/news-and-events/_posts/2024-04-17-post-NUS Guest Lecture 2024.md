@@ -14,14 +14,13 @@ variant: tiptap
 <p><em>DAG Rina Chua sharing AGO's role in public accountability to business and accountancy undergraduates</em>
 </p>
 <p></p>
-<p>As part of AGO’s continuous efforts to engage key stakeholders including
-university students, Deputy Auditor-General Rina Chua conducted a guest
-lecture at NUS for Business and Accountancy students in Apr 2024. She shared
-AGO’s as the national auditor, as well as the principles of Government
-procurement and eye-opening audit observations. Assistant Director John
-Tay also took the opportunity to introduce some of the digital tools that
-AGO used in last year's Thematic Audit of Singapore Tourism Board.
-<br>
-<br>It was overall a lively session with constant interaction between AGO
-officers and students, finally cumulating in some of the graduating students
-indicating interest in joining the company.</p>
+<p>As part of AGO’s continuous outreach efforts to engage our youth, Deputy
+Auditor-General Rina Chua delivered a guest lecture at NUS for Business
+and Accountancy students in April 2024. She shared with the undergraduates
+an overview of AGO’s work as the national auditor and AGO’s role in enhancing
+public accountability. DAG presented a selection of past AGO audit observations,
+illustrating the importance of the key principles of Government procurement.
+Assistant Director John Tay also took the opportunity to introduce some
+of the digital tools that AGO used in recent audits. Through the real-world
+examples and Q&amp;A session, the students gained a deeper understanding
+of what the life of an AGO auditor is like.</p>
