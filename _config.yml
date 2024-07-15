@@ -53,7 +53,7 @@ plugins:
 staging: https://staging.d3kwoowvdm5w35.amplifyapp.com/
 prod: https://master.d3kwoowvdm5w35.amplifyapp.com/
 shareicon: /images/AGOlogo.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
