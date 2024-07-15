@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/AR%20Infographics/infographic_ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+<p><a href="https://www.ago.gov.sg/files/AR%20Infographics/infographic_ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
 </p>
 </td>
 </tr>
