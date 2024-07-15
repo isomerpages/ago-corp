@@ -15,7 +15,7 @@ both sides shared about the work and priorities of their SAIs. The delegation
 was accompanied by Mr Ian Tan, Deputy Chief of Mission and Counsellor for
 Singapore Embassy to Hanoi.</p>
 <p>During the visit, the AGO delegation also participated in an international
-conference, “The role of Supreme Audit Institutions (SAIs) in Combatting
+conference titled, “The role of Supreme Audit Institutions (SAIs) in Combatting
 Corruption for the Advancement of Transparency, Public Integrity, and Good
 Governance”. The conference involved plenary and panel sessions, where
 various speakers and participants exchanged knowledge of the local laws
