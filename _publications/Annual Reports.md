@@ -35,11 +35,11 @@ variant: tiptap
 <p>2023/24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ago.gov.sg/files/ARs/ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+<p><a href="/files/ARs/ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ago.gov.sg/files/AR%20Infographics/infographic_ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+<p><a href="/files/AR Infographics/infographic_ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
 </p>
 </td>
 </tr>
