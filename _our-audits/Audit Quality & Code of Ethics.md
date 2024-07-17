@@ -1,6 +1,6 @@
 ---
 title: Audit Quality & Code of Ethics
-permalink: /our-audits/audit-quality-code-of-ethnics/
+permalink: /our-audits/audit-quality-code-of-ethics/
 description: ""
 variant: tiptap
 ---

@@ -12,7 +12,12 @@ variant: tiptap
 <h4><strong>The Report of the Auditor-General is typically presented in early July each year and subsequently tabled in Parliament later</strong></h4>
 </blockquote>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,6 +29,19 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Download</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023/24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2023_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
