@@ -17,8 +17,9 @@ officers made presentations on these topics: AGO’s digital transformation
 journey, follow-the-dollar audits and AGO Academy. The Malaysian SAI also
 shared with AGO on its SAI’s digital transformation journey.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2024/NADvisit_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2024/NADvisit_1a.jpg">
 </div>
 <p><em>Group photo of the Malaysian visitors with AGO’s senior management</em>
 </p>
