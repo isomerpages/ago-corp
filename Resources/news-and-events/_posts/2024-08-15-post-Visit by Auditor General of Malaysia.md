@@ -38,3 +38,10 @@ shared with AGO on its SAI’s digital transformation journey.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2024/NADvisit_4.jpg">
 </div>
 <p>AG warmly welcomed the Malaysian delegation to AGO</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2024/NADvisit_5.jpg">
+</div>
+<p>AG hosted the delegation to lunch at the Singapore Botanic Gardens</p>
+<p></p>
+<p></p>
