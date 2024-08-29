@@ -17,7 +17,7 @@ initiatives.</p>
 on some considerations in organising the ASEANSAI summit.</p>
 <p>At BPK's invitation, the AGO delegation also visited the ASEANSAI Secretariat
 Office located within the BPK headquarters office in Jakarta.</p>
-<p>The visit signifies the close relationship between the two SAIs.</p>
+<p>The visit signified the close relationship between the two SAIs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2024/VisitBPK2024_1.jpg">
