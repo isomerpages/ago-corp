@@ -22,12 +22,10 @@ sections:
   - infopic:
       title: Audit Quality & Code of Ethics
       id: infopic
-      description: |-
-        To ensure quality in our audits, 
-        AGO has implemented a Quality 
-        Assurance Framework (QAF)
+      description: To ensure quality in our audits,  AGO has implemented a
+        Quality  Assurance Framework (QAF)
       button: READ MORE
-      url: /our-audits/audit-quality-code-of-ethnics/
+      url: /our-audits/audit-quality-code-of-ethics/
       image: /images/Home/2Z0A6945.jpg
       alt: Audit Quality & Code of Ethics
   - infopic:
