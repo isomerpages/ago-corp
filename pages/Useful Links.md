@@ -18,7 +18,7 @@ variant: tiptap
 <p>INTERNATIONAL / REGIONAL ORGANISATIONS OF SUPREME AUDIT INSTITUTIONS</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.aseansai.org/" rel="noopener noreferrer nofollow" target="_blank">ASEANSAI</a>
+<p><a href="https://aseansai.org/" rel="noopener noreferrer nofollow" target="_blank">ASEANSAI</a>
 </p>
 </li>
 <li>
