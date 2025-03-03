@@ -20,6 +20,15 @@ sections:
           url: /careers/career-opportunities/
       variant: image
   - infopic:
+      title: Report Suspected Lapses
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Provide Feedback Here
+      url: https://form.gov.sg/63e069b227939600131f3527
+      image: /images/Home/Feedback.jpg
+      alt: Feedback
+  - infopic:
       title: Audit Quality & Code of Ethics
       id: infopic
       description: To ensure quality in our audits,  AGO has implemented a
