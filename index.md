@@ -20,13 +20,14 @@ sections:
           url: /careers/career-opportunities/
       variant: image
   - infopic:
-      title: Provide Information on Loss/Potential Loss of Public Funds
+      title: Whistleblowing
       id: infopic
-      description: Unless disclosure is required by law, AGO keeps the identity of
-        informants confidential.
-      button: Provide Information Here
+      description: Aware of any financial irregularities or mismanagement involving
+        public funds? Provide the information here. Your identity will be kept
+        confidential.
+      button: Click here
       url: https://form.gov.sg/63e069b227939600131f3527
-      image: /images/Home/Feedback.jpg
+      image: /images/Home/Whistleblowing.jpg
       alt: Feedback
   - infopic:
       title: Audit Quality & Code of Ethics
