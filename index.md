@@ -20,6 +20,16 @@ sections:
           url: /careers/career-opportunities/
       variant: image
   - infopic:
+      title: Whistleblowing
+      id: infopic
+      description: Aware of any financial irregularities or mismanagement involving
+        public funds? Provide the information here. Your identity will be kept
+        confidential.
+      button: Click here
+      url: https://form.gov.sg/63e069b227939600131f3527
+      image: /images/Home/whistleblowing.jpg
+      alt: Feedback
+  - infopic:
       title: Audit Quality & Code of Ethics
       id: infopic
       description: To ensure quality in our audits,  AGO has implemented a
