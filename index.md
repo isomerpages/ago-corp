@@ -20,11 +20,12 @@ sections:
           url: /careers/career-opportunities/
       variant: image
   - infopic:
-      title: Report Suspected Lapses
+      title: Provide Information on Loss/Potential Loss of Public Funds
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Provide Feedback Here
+      description: Unless disclosure is required by law, AGO keeps the identity of
+        informants confidential.
+      button: Provide Information Here
       url: https://form.gov.sg/63e069b227939600131f3527
       image: /images/Home/Feedback.jpg
       alt: Feedback
