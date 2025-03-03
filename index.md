@@ -21,7 +21,6 @@ sections:
       variant: image
   - infopic:
       title: Provide Information on Loss/Potential Loss of Public Funds
-      subtitle: Add an image and text
       id: infopic
       description: Unless disclosure is required by law, AGO keeps the identity of
         informants confidential.
