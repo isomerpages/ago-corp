@@ -27,7 +27,7 @@ sections:
         confidential.
       button: Click here
       url: https://form.gov.sg/63e069b227939600131f3527
-      image: /images/Home/Whistle_Blowing.jpg
+      image: /images/Home/whistleblowing.jpg
       alt: Feedback
   - infopic:
       title: Audit Quality & Code of Ethics
