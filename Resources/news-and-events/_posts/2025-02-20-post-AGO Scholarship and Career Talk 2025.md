@@ -23,7 +23,6 @@ opportunities in AGO by the Director of Corporate Development. The event
 concluded with a panel-sharing segment where students get their queries
 answered. It was definitely an informative and fulfilling session.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2025/Scholarship_Talk_1.jpg">
 </div>
