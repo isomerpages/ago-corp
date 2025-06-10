@@ -21,4 +21,4 @@ from SAIs of ASEAN and beyond, and over 2,000 participants from both public
 and private sectors.</p>
 <p>During the Conference, senior leaders from ASEANSAIs shared on the follow-up
 audit process and digital tools used for follow-up audits in their respective
-SAIs, as well as how follow-up audits enhance transparency and accountability.</p>
+SAIs, as well as how such audits enhance transparency and accountability.</p>
