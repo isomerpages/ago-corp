@@ -163,3 +163,152 @@ loss of public moneys.</p>
 <p>Yes, AGO is audited by commercial auditors.</p>
 <p>On top of the external audit, AGO is audited by its Internal Audit Unit
 which reports directly to the Auditor-General.</p>
+<p><strong>17. One of the AGO’s KPIs in the Budget Book is “% of 10 large Statutory Boards and Funds audited at least once in 5 years”. Which entities are included in this group of “10 large Statutory Boards and Funds” and what are the criteria or considerations used in classifying these entities as 'large'?</strong>
+</p>
+<p>The 10 large Statutory Boards (SBs) and Funds are:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Type</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of SB/Fund</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Central Provident Fund Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Civil Aviation Authority of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Housing and Development Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JTC Corporation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Land Transport Authority of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>People's Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Utilities Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fund</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good and Services Tax Voucher Fund</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fund</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merdeka Generation Fund</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fund</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pioneer Generation Fund</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>They are determined based on AGO’s periodic assessment of factors including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Financial materiality (considering the SB/ Fund’s assets, liabilities,
+expenditure/ payments, and revenue/ receipts);</p>
+</li>
+<li>
+<p>Size; and</p>
+</li>
+<li>
+<p>Complexity and scope of operations.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
