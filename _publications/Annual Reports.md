@@ -32,6 +32,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024/25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ARs/ar_fy2024_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/AR Infographics/infographic_ar_fy2024_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023/24</p>
 </td>
 <td rowspan="1" colspan="1">
