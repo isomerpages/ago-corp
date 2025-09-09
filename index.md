@@ -25,7 +25,6 @@ sections:
       variant: image
   - infopic:
       title: Report of the Auditor-General for FY2024/25
-      subtitle: Add an image and text
       id: infopic
       description: The Report was submitted to the President on 2 July 2025 and tabled
         in Parliament on 8 September 2025.
