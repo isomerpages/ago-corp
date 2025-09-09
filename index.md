@@ -31,7 +31,7 @@ sections:
         in Parliament on 8 September 2025.
       button: READ More
       url: https://www.ago.gov.sg/publications/annual-reports/
-      image: /images/Home/AR_FY24_25_cover.jpg
+      image: /images/Home/AR_FY24_25_cover_2.jpg
       alt: Image alt text
   - infopic:
       title: Whistleblowing
