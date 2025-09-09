@@ -24,6 +24,16 @@ sections:
           url: /careers/career-opportunities/
       variant: image
   - infopic:
+      title: Report of the Auditor-General for FY2024/25
+      subtitle: Add an image and text
+      id: infopic
+      description: The Report was submitted to the President on 2 July 2025 and tabled
+        in Parliament on 8 September 2025.
+      button: READ More
+      url: https://www.ago.gov.sg/publications/annual-reports/
+      image: /images/Home/AR_FY24_25_cover.jpg
+      alt: Image alt text
+  - infopic:
       title: Whistleblowing
       id: infopic
       description: Aware of any financial irregularities or mismanagement involving
