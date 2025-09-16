@@ -8,10 +8,10 @@ image: ""
 variant: tiptap
 ---
 <p>On 16 September 2025, Ms Johanna Ojala-Niemelä, Chair of Audit Committee
-of the Parliament of Finland led a delegation from the parliamentary committee
-to visit AGO. She was accompanied by Finnish Ambassador Mr Juha Markkanen.
-The Finns met with AG Wai Choong, who was accompanied by Deputy AG Rina
-and Assistant AG Mabel.</p>
+of the Parliament of Finland led a delegation from the Parliamentary Audit
+Committee to visit AGO. She was accompanied by Finnish Ambassador Mr Juha
+Markkanen. The Finns met with AG Wai Choong, who was accompanied by Deputy
+AG Rina and Assistant AG Mabel.</p>
 <p>The meeting began with a presentation by Acting Group Director Cherrie
 on AGO’s role and its work. This was followed by presentations by Deputy
 Director Wendy on AGO's audits of the healthcare sector and Deputy Director
