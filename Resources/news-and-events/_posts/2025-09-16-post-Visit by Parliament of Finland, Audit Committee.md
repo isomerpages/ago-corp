@@ -16,7 +16,7 @@ Deputy AG Rina and Assistant AG Mabel.</p>
 on AGO’s role and its work. This was followed by presentations by Deputy
 Director Wendy on AGO's audits of the healthcare sector and Deputy Director
 Peck Ee on an audit related to the education sector.</p>
-<p>The meeting ended with an interesting discussion on various issues, including
+<p>The meeting ended with an insightful discussion on various issues, including
 the types of audits performed by the two countries' SAIs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
