@@ -74,3 +74,27 @@ of the various Committees.</p>
 Minister for Finance and National Development, was the Summit’s Guest of
 Honour</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_6.jpg">
+</div>
+<p>The Xinmin Nightingales delivered an enthralling choral performance at
+the Summit</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_7.jpg">
+</div>
+<p>The Summit was attended by 81 delegates from 15 countries</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_8.jpg">
+</div>
+<p>The 8th ASEANSAI Summit concluded successfully</p>
+<h4>Young Leaders’ Programme (YLP)</h4>
+<p>The inaugural YLP was held concurrently with the Summit, bringing together
+young public officials from across ASEANSAI member organisations. Under
+the theme "Building for the Future", participants shared insights on recent
+innovations in public sector auditing and discussed current priorities
+within their respective SAIs. The programme created a valuable platform
+for cross-regional learning and contributed to participants' professional
+development whilst enhancing understanding of regional audit practices.</p>
+<p></p>
