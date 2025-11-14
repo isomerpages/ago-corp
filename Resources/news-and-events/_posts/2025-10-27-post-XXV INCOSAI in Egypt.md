@@ -36,7 +36,7 @@ National Audit Office (ANAO).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2025/2025INCOSAI_2.jpg">
 </div>
-<p>AG with the UK Comptroller and Auditor-General, Mr Gareth Davie</p>
+<p>AG with the UK Comptroller and Auditor-General, Mr Gareth Davies</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2025/2025INCOSAI_3.jpg">
