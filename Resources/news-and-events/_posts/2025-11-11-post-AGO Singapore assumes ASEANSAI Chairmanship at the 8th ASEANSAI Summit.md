@@ -98,3 +98,8 @@ within their respective SAIs. The programme created a valuable platform
 for cross-regional learning and contributed to participants' professional
 development whilst enhancing understanding of regional audit practices.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_YLP2025.jpg">
+</div>
+<p>The Young Leaders’ Programme was held on 13 November 2025 at the headquarters
+of the Auditor-General’s Office</p>
