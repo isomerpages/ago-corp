@@ -40,4 +40,7 @@ for enhanced cooperation between development partners and ASEANSAI.</p>
 <p>Development partners with ASEANSAI Secretariat and participating SAIs
 of the DCM</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit/8th_ASEANSAI___1_96.jpg">
+</div>
+<p>SAI Singapore was one of the participants of the DCM</p>
