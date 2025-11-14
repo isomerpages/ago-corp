@@ -67,3 +67,10 @@ the ASEANSAI Annual Results Report 2025 covering Committees and Secretariat
 activities, the ASEANSAI Strategic Plan 2026-2029 and appointment of Chairmanship
 of the various Committees.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_5.jpg">
+</div>
+<p>Ms Indranee Rajah, Minister in the Prime Minister's Office and Second
+Minister for Finance and National Development, was the Summit’s Guest of
+Honour</p>
+<p></p>
