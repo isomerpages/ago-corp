@@ -11,7 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_1.jpg">
 </div>
-<p>Heads of ASEANSAI Delegations at the 8th ASEANSAI Summit</p>
+<p><em>Heads of ASEANSAI Delegations at the 8th ASEANSAI Summit</em>
+</p>
 <p>From 11 to 14 November 2025, the Auditor-General’s Office (SAI Singapore)
 hosted the 8th ASEAN Supreme Audit Institutions (ASEANSAI) Summit and the
 inaugural Young Leaders’ Programme (YLP).</p>
@@ -29,16 +30,14 @@ for enhanced cooperation between development partners and ASEANSAI.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_2.jpg">
 </div>
-<p>ASEANSAI's key stakeholders (Swedish National Audit Office, Asian Development
-Bank, Canadian Audit and Accountability Foundation, National Audit Office
-of China, International Foundation for Electoral Systems, International
-Budget Partnership, and State Secretariat for Economic Affairs Switzerland)
-met with the ASEANSAI Secretariat at the DCM</p>
+<p><em>ASEANSAI's key stakeholders (Swedish National Audit Office, Asian Development Bank, Canadian Audit and Accountability Foundation, National Audit Office of China, International Foundation for Electoral Systems, International Budget Partnership, and State Secretariat for Economic Affairs Switzerland) met with the ASEANSAI Secretariat at the DCM</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_4.jpg">
 </div>
-<p>SAI Singapore was one of the participants of the DCM</p>
+<p><em>SAI Singapore was one of the participants of the DCM</em>
+</p>
 <h4>8th ASEANSAI Summit</h4>
 <p>The Summit took place on 13 November 2025, marking a significant milestone
 as the first time SAI Singapore served as host for this key biennial ASEANSAI
@@ -70,25 +69,26 @@ of the various Committees.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_5.jpg">
 </div>
-<p>Ms Indranee Rajah, Minister in the Prime Minister's Office and Second
-Minister for Finance and National Development, was the Summit’s Guest of
-Honour</p>
+<p><em>Ms Indranee Rajah, Minister in the Prime Minister's Office and Second Minister for Finance and National Development, was the Summit’s Guest of Honour</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_6.jpg">
 </div>
-<p>The Xinmin Nightingales delivered an enthralling choral performance at
-the Summit</p>
+<p><em>The Xinmin Nightingales delivered an enthralling choral performance at the Summit</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_7.jpg">
 </div>
-<p>The Summit was attended by 81 delegates from 15 countries</p>
+<p><em>The Summit was attended by 81 delegates from 15 countries</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_8.jpg">
 </div>
-<p>The 8th ASEANSAI Summit concluded successfully</p>
+<p><em>The 8th ASEANSAI Summit concluded successfully</em>
+</p>
 <h4>Young Leaders’ Programme (YLP)</h4>
 <p>The inaugural YLP was held concurrently with the Summit, bringing together
 young public officials from across ASEANSAI member organisations. Under
@@ -101,5 +101,5 @@ development whilst enhancing understanding of regional audit practices.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/8th ASEANSAI Summit   2025/8th_ASEANSAI_YLP2025.jpg">
 </div>
-<p>The Young Leaders’ Programme was held on 13 November 2025 at the headquarters
-of the Auditor-General’s Office</p>
+<p><em>The Young Leaders’ Programme was held on 13 November 2025 at the headquarters of the Auditor-General’s Office</em>
+</p>
