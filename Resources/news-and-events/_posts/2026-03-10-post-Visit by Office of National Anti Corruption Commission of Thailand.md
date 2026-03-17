@@ -19,7 +19,7 @@ digital transformation to enhance work in their respective domains.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_Events_Photos/2026/ONACC_visit_1.jpg">
 </div>
-<p><em>Mr Tawichat Nillakan, Deputy Secretary-General (Region 9) of the National Anti-Corruption Commission with Director Paul</em> 
+<p><em>Mr Tawichat Nillakan, Deputy Secretary-General (Region 9) of the National Anti-Corruption Commission with Director Paul</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
