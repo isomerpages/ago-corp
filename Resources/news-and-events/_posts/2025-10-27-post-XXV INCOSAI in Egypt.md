@@ -25,7 +25,7 @@ insights from our audits during breakout sessions.</p>
 <p>AGO also took the opportunity to meet with international counterparts
 on the sidelines of the Congress. AG separately met with Mr Gareth Davies,
 Comptroller &amp; Auditor-General (C&amp;AG) of the United Kingdom National
-Audit Office (UK NAO), and Dr Carelee McLiesh, Auditor-General of the Australian
+Audit Office (UK NAO), and Dr Caralee McLiesh, Auditor-General of the Australian
 National Audit Office (ANAO).</p>
 <p></p>
 <div class="isomer-image-wrapper">
